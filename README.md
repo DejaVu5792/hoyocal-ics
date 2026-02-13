@@ -1,6 +1,8 @@
 # HoYoCal
 
-This repo contains ics files to be imported to any calendar.
+This repo contains ics files to be imported to any calendar application/program.
+
+This repo is automatically updated by a python script that gets event information using [genshin.py](https://github.com/seriaati/genshin.py)
 
 # ICS links:
 ## Genshin

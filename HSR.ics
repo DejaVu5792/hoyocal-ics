@@ -1,70 +1,61 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Hoyo Calendar Parser//EN
 CALSCALE:GREGORIAN
-PRODID:-//SabreDAV//SabreDAV//EN
-X-WR-CALNAME:HSR (dejavu)
-REFRESH-INTERVAL;VALUE=DURATION:PT4H
-X-PUBLISHED-TTL:PT4H
+METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Ding! Arcadia Fun-Time Clock-In Essentials
-DTSTART:20260210T200000
-DTEND:20260322T195900
-DTSTAMP:20260213T091129Z
-UID:hoyo-394c33f1ade1dcc454b35fd6a5439fcd@hoyo-calendar-parser
-DESCRIPTION:Calling all explorers! Furbobocom has put together "Planarcadia
-  Essentials" just for you. Let your urban adventure begin!\n\n
+SUMMARY:A Flip of Fortune
+DTSTART:20260212T230000
+DTEND:20260324T220000
+UID:8142fb1ab4551170a093dcb6f84632f1@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cosmicon\, Roll On!
 DTSTART:20260210T200000
 DTEND:20260322T195900
-DTSTAMP:20260213T091129Z
-UID:hoyo-8240d2005b7d97a73f17315ff9f37b99@hoyo-calendar-parser
-DESCRIPTION:The Mole Forces are closing in on Planarcadia! For the peace of
-  the local gaming community\, grab your dice and cards\, and go face off a
- gainst those old friends!\n\n
+UID:386d1650c7f8cea18504b4af69a5d068@hoyo-calendar
+DESCRIPTION:The Mole Forces are closing in on Planarcadia! For the peace o
+ f the local gaming community\, grab your dice and cards\, and go face off 
+ against those old friends!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ding! Arcadia Fun-Time Clock-In Essentials
+DTSTART:20260210T200000
+DTEND:20260322T195900
+UID:47db7be6d6864b7e084c9f022d90543a@hoyo-calendar
+DESCRIPTION:Calling all explorers! Furbobocom has put together "Planarcadi
+ a Essentials" just for you. Let your urban adventure begin!\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planar Fissure
 DTSTART:20260222T200000
 DTEND:20260308T195900
-DTSTAMP:20260213T091129Z
-UID:hoyo-88ed9c3f63b874170a68fcf0452d35bb@hoyo-calendar-parser
-DESCRIPTION:During the event\, successfully challenge Simulated Universe or
-  Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gift of Arcadia
-DTSTART:20260210T200000
-DTEND:20260324T220000
-DTSTAMP:20260213T091129Z
-UID:hoyo-96dc4e67c3f8f31ca0d6acec5fa11f67@hoyo-calendar-parser
-DESCRIPTION:A gift from Planarcadia awaits! As is the custom here\, a good 
- laugh is the best way to show your gratitude.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Flip of Fortune
-DTSTART:20260212T230000
-DTEND:20260324T220000
-DTSTAMP:20260213T091129Z
-UID:hoyo-a99fe7ca446a7d0996354e6ca9ae0dfb@hoyo-calendar-parser
-DESCRIPTION:\n\n
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Realm of the Strange
 DTSTART:20260312T200000
 DTEND:20260322T195900
-DTSTAMP:20260213T091129Z
-UID:hoyo-ba564fb240deff9bb374e4957b4dcc50@hoyo-calendar-parser
-DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion 
- to earn double rewards.\n\n
+UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
+  to earn double rewards.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fashion Guide of the Cosmos: Winter's Ballad Special Edition
 DTSTART:20260210T200000
 DTEND:20260324T220000
-DTSTAMP:20260213T091129Z
-UID:hoyo-c861a3d55984bdfa345cbeffb0d76510@hoyo-calendar-parser
+UID:30d8b39182d2c7b42a227718d25b7025@hoyo-calendar
 DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gift of Arcadia
+DTSTART:20260210T200000
+DTEND:20260324T220000
+UID:5eef32f000e3ce7e1c44a697d251dcf7@hoyo-calendar
+DESCRIPTION:A gift from Planarcadia awaits! As is the custom here\, a good
+  laugh is the best way to show your gratitude.\n\n
 END:VEVENT
 END:VCALENDAR

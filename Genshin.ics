@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//SabreDAV//SabreDAV//EN
+X-WR-CALNAME:Genshin (dejavu)
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VEVENT
+SUMMARY:A Lanternlit Ode to the Silver Moon
+DTSTART:20260130T100000
+DTEND:20260223T035900
+DTSTAMP:20260213T091128Z
+UID:hoyo-0359710c9ead0f5c6b150ae198c8995f@hoyo-calendar-parser
+DESCRIPTION:As the Lantern Rite comes around once more\, you and Paimon ret
+ urn to a bustling Liyue Harbor...\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stygian Onslaught
+DTSTART:20260121T100000
+DTEND:20260224T035900
+DTSTAMP:20260213T091128Z
+UID:hoyo-14963dd792873e7182209dfeea937d26@hoyo-calendar-parser
+DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this t
+ ime in Liyue's Sal Terrae. You must breach the depths of this unpredictabl
+ e Domain\, for only by defeating powerful foes can the turmoil be quelled.
+ .. Of course\, where danger awaits\, so too do extraordinary treasures...\
+ n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonlit Patrol Exercise
+DTSTART:20260209T100000
+DTEND:20260223T035900
+DTSTAMP:20260213T091128Z
+UID:hoyo-a73c613e69ac7f1af75e849aa9d407e0@hoyo-calendar-parser
+DESCRIPTION:Edler of the Maison Gardiennage has traveled to Nod-Krai\, hopi
+ ng to draw on the region's unique traits to refine her wargame. However\, 
+ while out in the wilderness\, she found herself waylaid by an unexpected e
+ ncounter...\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lament of the Cliff-Shadowed Hollow
+DTSTART:20260114T070000
+DTEND:20260407T145900
+DTSTAMP:20260213T091128Z
+UID:hoyo-ade13e5c6596a83748dba379b2ca202e@hoyo-calendar-parser
+DESCRIPTION:Climb the tower that stands unbroken from the pioneering age. G
+ aze upon the time-worn wilds — as the first Ratniki once did — and the
+  mountains that have endured the passing years.\nThe blood of bygone battl
+ es remains\, and a quiet tale continues to resonate among the ruined walls
+  of the lakeside palace. As old enemies regroup beneath the dark\, leaden 
+ clouds\, the restless north wind carries the marching songs of war once mo
+ re.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Automatic Artistry
+DTSTART:20260131T100000
+DTEND:20260216T035900
+DTSTAMP:20260213T091128Z
+UID:hoyo-d3a6e73f0fc4c889b6044b637305cfe5@hoyo-calendar-parser
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event t
+ hat uses special Heated Battle Mode rules.\nRules for this period:\nSelect
+  characters specially dedicated to this mode to build a team and enhance t
+ hem. Characters will automatically battle!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Forge Realm's Temper: Clever Stratagems
+DTSTART:20260114T070000
+DTEND:20260225T070000
+DTSTAMP:20260213T091128Z
+UID:hoyo-df6e98db7980d91572d3995cb76bf269@hoyo-calendar-parser
+DESCRIPTION:\n\n
+END:VEVENT
+END:VCALENDAR

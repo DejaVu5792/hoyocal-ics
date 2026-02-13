@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hoyo Calendar Parser//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Manila
+BEGIN:STANDARD
+TZNAME:Asia/Manila
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:A Flip of Fortune
+DTSTART;TZID=Asia/Manila:20260212T230000
+DTEND;TZID=Asia/Manila:20260324T220000
+UID:8142fb1ab4551170a093dcb6f84632f1@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmicon\, Roll On!
+DTSTART;TZID=Asia/Manila:20260210T200000
+DTEND;TZID=Asia/Manila:20260322T195900
+UID:386d1650c7f8cea18504b4af69a5d068@hoyo-calendar
+DESCRIPTION:The Mole Forces are closing in on Planarcadia! For the peace o
+ f the local gaming community\, grab your dice and cards\, and go face off 
+ against those old friends!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ding! Arcadia Fun-Time Clock-In Essentials
+DTSTART;TZID=Asia/Manila:20260210T200000
+DTEND;TZID=Asia/Manila:20260322T195900
+UID:47db7be6d6864b7e084c9f022d90543a@hoyo-calendar
+DESCRIPTION:Calling all explorers! Furbobocom has put together "Planarcadi
+ a Essentials" just for you. Let your urban adventure begin!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART;TZID=Asia/Manila:20260222T200000
+DTEND;TZID=Asia/Manila:20260308T195900
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Realm of the Strange
+DTSTART;TZID=Asia/Manila:20260312T200000
+DTEND;TZID=Asia/Manila:20260322T195900
+UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
+  to earn double rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fashion Guide of the Cosmos: Winter's Ballad Special Edition
+DTSTART;TZID=Asia/Manila:20260210T200000
+DTEND;TZID=Asia/Manila:20260324T220000
+UID:30d8b39182d2c7b42a227718d25b7025@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gift of Arcadia
+DTSTART;TZID=Asia/Manila:20260210T200000
+DTEND;TZID=Asia/Manila:20260324T220000
+UID:5eef32f000e3ce7e1c44a697d251dcf7@hoyo-calendar
+DESCRIPTION:A gift from Planarcadia awaits! As is the custom here\, a good
+  laugh is the best way to show your gratitude.\n\n
+END:VEVENT
+END:VCALENDAR

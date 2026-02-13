@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hoyo Calendar Parser//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Asia/Manila
+BEGIN:STANDARD
+TZNAME:Asia/Manila
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Moonlit Patrol Exercise
+DTSTART;TZID=Asia/Manila:20260209T100000
+DTEND;TZID=Asia/Manila:20260223T035900
+UID:88dd70c6ce16922095f3ceba461684a0@hoyo-calendar
+DESCRIPTION:Edler of the Maison Gardiennage has traveled to Nod-Krai\, hop
+ ing to draw on the region's unique traits to refine her wargame. However\,
+  while out in the wilderness\, she found herself waylaid by an unexpected 
+ encounter...\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Lanternlit Ode to the Silver Moon
+DTSTART;TZID=Asia/Manila:20260130T100000
+DTEND;TZID=Asia/Manila:20260223T035900
+UID:040c146d955e714221fae8bf11672939@hoyo-calendar
+DESCRIPTION:As the Lantern Rite comes around once more\, you and Paimon re
+ turn to a bustling Liyue Harbor...\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stygian Onslaught
+DTSTART;TZID=Asia/Manila:20260121T100000
+DTEND;TZID=Asia/Manila:20260224T035900
+UID:18a4565295a463b625972f451b156729@hoyo-calendar
+DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
+ time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
+ le Domain\, for only by defeating powerful foes can the turmoil be quelled
+ ... Of course\, where danger awaits\, so too do extraordinary treasures...
+ \n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lament of the Cliff-Shadowed Hollow
+DTSTART;TZID=Asia/Manila:20260114T070000
+DTEND;TZID=Asia/Manila:20260407T145900
+UID:d8f7f9cea1e785f9c61c7e203cfda19f@hoyo-calendar
+DESCRIPTION:Climb the tower that stands unbroken from the pioneering age. 
+ Gaze upon the time-worn wilds — as the first Ratniki once did — and th
+ e mountains that have endured the passing years.\nThe blood of bygone batt
+ les remains\, and a quiet tale continues to resonate among the ruined wall
+ s of the lakeside palace. As old enemies regroup beneath the dark\, leaden
+  clouds\, the restless north wind carries the marching songs of war once m
+ ore.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Automatic Artistry
+DTSTART;TZID=Asia/Manila:20260131T100000
+DTEND;TZID=Asia/Manila:20260216T035900
+UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
+ that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
+ t characters specially dedicated to this mode to build a team and enhance 
+ them. Characters will automatically battle!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Forge Realm's Temper: Clever Stratagems
+DTSTART;TZID=Asia/Manila:20260114T070000
+DTEND;TZID=Asia/Manila:20260225T070000
+UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+END:VCALENDAR

@@ -3,6 +3,8 @@ VERSION:2.0
 PRODID:-//Hoyo Calendar Parser//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
+X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
 SUMMARY:Moonlit Patrol Exercise
 DTSTART:20260209T020000Z

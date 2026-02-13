@@ -3,6 +3,8 @@ VERSION:2.0
 PRODID:-//Hoyo Calendar Parser//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
+X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
 SUMMARY:A Flip of Fortune
 DTSTART:20260212T150000Z

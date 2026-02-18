@@ -48,14 +48,11 @@ DESCRIPTION:Climb the tower that stands unbroken from the pioneering age.
  ore.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Automatic Artistry
-DTSTART:20260131T020000Z
-DTEND:20260215T195900Z
-UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
- t characters specially dedicated to this mode to build a team and enhance 
- them. Characters will automatically battle!\n\n
+SUMMARY:Ley Line Overflow
+DTSTART:20260215T200000Z
+DTEND:20260222T195900Z
+UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems

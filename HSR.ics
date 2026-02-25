@@ -23,14 +23,6 @@ DESCRIPTION:Calling all explorers! Furbobocom has put together "Planarcadi
  a Essentials" just for you. Let your urban adventure begin!\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260222T120000Z
-DTEND:20260308T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Realm of the Strange
 DTSTART:20260312T120000Z
 DTEND:20260322T115900Z
@@ -59,5 +51,13 @@ DTSTART:20260212T150000Z
 DTEND:20260324T140000Z
 UID:8142fb1ab4551170a093dcb6f84632f1@hoyo-calendar
 DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20260222T120000Z
+DTEND:20260308T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 END:VCALENDAR

@@ -6,35 +6,6 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Moonlit Patrol Exercise
-DTSTART:20260209T020000Z
-DTEND:20260222T195900Z
-UID:88dd70c6ce16922095f3ceba461684a0@hoyo-calendar
-DESCRIPTION:Edler of the Maison Gardiennage has traveled to Nod-Krai\, hop
- ing to draw on the region's unique traits to refine her wargame. However\,
-  while out in the wilderness\, she found herself waylaid by an unexpected 
- encounter...\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Lanternlit Ode to the Silver Moon
-DTSTART:20260130T020000Z
-DTEND:20260222T195900Z
-UID:040c146d955e714221fae8bf11672939@hoyo-calendar
-DESCRIPTION:As the Lantern Rite comes around once more\, you and Paimon re
- turn to a bustling Liyue Harbor...\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260121T020000Z
-DTEND:20260223T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Lament of the Cliff-Shadowed Hollow
 DTSTART:20260113T230000Z
 DTEND:20260407T065900Z
@@ -48,17 +19,10 @@ DESCRIPTION:Climb the tower that stands unbroken from the pioneering age.
  ore.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ley Line Overflow
-DTSTART:20260215T200000Z
-DTEND:20260222T195900Z
-UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Clever Stratagems
-DTSTART:20260113T230000Z
-DTEND:20260224T230000Z
-UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Endless Swarm
+DTSTART:20260224T230000Z
+DTEND:20260407T230000Z
+UID:bc32182d1c525c5e34646eef1570b85f@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

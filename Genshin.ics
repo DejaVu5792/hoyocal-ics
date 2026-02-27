@@ -6,6 +6,16 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Homeward\, He Who Caught the Wind
+DTSTART:20260227T020000Z
+DTEND:20260315T195900Z
+UID:2e008f1008cb71e614b769642cfdc370@hoyo-calendar
+DESCRIPTION:One day\, you and Paimon suddenly receive an invitation from t
+ he Knights of Favonius. And so\, you return to Mondstadt to take part in a
+  welcome ceremony that feels both familiar and just a little different...\
+ n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Lament of the Cliff-Shadowed Hollow
 DTSTART:20260113T230000Z
 DTEND:20260407T065900Z

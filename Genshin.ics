@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Stygian Onslaught
+DTSTART:20260304T020000Z
+DTEND:20260406T195900Z
+UID:18a4565295a463b625972f451b156729@hoyo-calendar
+DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
+ time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
+ le Domain\, for only by defeating powerful foes can the turmoil be quelled
+ ... Of course\, where danger awaits\, so too do extraordinary treasures...
+ \n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Homeward\, He Who Caught the Wind
 DTSTART:20260227T020000Z
 DTEND:20260315T195900Z

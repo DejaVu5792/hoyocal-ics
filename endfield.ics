@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Endfield Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Arknights: Endfield Events
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:Voyage to the Stars Web Event
+DTSTART:20260116T000000
+DTEND:20260304T000000
+UID:7a7f87ad465d9591dae3c000c5b54589@endfield-cal
+DESCRIPTION:Login to send your username and UID to space!\n\nSource: https
+ ://game8.co/games/Arknights-Endfield/archives/575865\n\nGenerated from: ht
+ tps://game8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/575865
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fortune Connect-and-Win Mail Reward Event
+DTSTART:20260215T000000
+DTEND:20260223T000000
+UID:dc5393521090871f18d61b5f1d10b16a@endfield-cal
+DESCRIPTION:Receive in-game mail daily to receive special rewards includin
+ g Oroberyls\, Springfest Pastry\, and Emergency Sanity Concentrate!\n\nSou
+ rce: https://game8.co/games/Arknights-Endfield/archives/580718\n\nGenerate
+ d from: https://game8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/580718
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Spring Note\, Warmly Crafted Web Event
+DTSTART:20260215T000000
+DTEND:20260304T000000
+UID:1e018ea6f8edbf5bdc78468431f5c6e3@endfield-cal
+DESCRIPTION:Operators have just sent you their holiday greetings. Witness 
+ their joy\, warmth\, care\, and admiration.\n\nSource: https://game8.co/ga
+ mes/Arknights-Endfield/archives/580727\n\nGenerated from: https://game8.co
+ /games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/580727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steps to Sweet Success Mail Event
+DTSTART:20260216T000000
+DTEND:20260304T000000
+UID:0493fff0a5a717069889c83854391c11@endfield-cal
+DESCRIPTION:Join to earn rewards including Oroberyls\, Springfest Pastry\,
+  and Emergency Sanity Concentrate from Operators.\n\nSource: https://game8
+ .co/games/Arknights-Endfield/archives/580771\n\nGenerated from: https://ga
+ me8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/580771
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arknights Endfield Spectral Splendor Sign In  Guide
+DTSTART:20260224T000000
+DTEND:20260313T000000
+UID:da88a2b0e4ea708a9857da564372ffc9@endfield-cal
+DESCRIPTION:Log into the game for 7 days to earn various sign-in rewards!\
+ n\nGenerated from: https://game8.co/games/Arknights-Endfield/archives/5354
+ 43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanity Discount
+DTSTART:20260302T000000
+DTEND:20260312T000000
+UID:6f6b16ea16d422b778afb9861e1b91ef@endfield-cal
+DESCRIPTION:Players earn 3 Sanity discounts per day\, reducing the cost by
+  up to 40 Sanity in Protocol Spaces and Energy Alluviums!\n\nSource: https
+ ://game8.co/games/Arknights-Endfield/archives/584397\n\nGenerated from: ht
+ tps://game8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/584397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arknights Endfield Gently Flows Qingbo Sign-In   Guide
+DTSTART:20260312T000000
+DTEND:20260329T000000
+UID:3b297fce448355f7bda446ae2c72bcb1@endfield-cal
+DESCRIPTION:Login for 7 days to get rewards during the Tangtang Sign-In Ev
+ ent!\n\nGenerated from: https://game8.co/games/Arknights-Endfield/archives
+ /535443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quietly Flows the Spring
+DTSTART:20260312T000000
+DTEND:20260312T000000
+UID:f8019eed5ea8a0dc2d98116d33f7a6a1@endfield-cal
+DESCRIPTION:Visit Qingbo Stockade and explore the new sub-region to comple
+ te event missions and get rich rewards!\n\nSource: https://game8.co/games/
+ Arknights-Endfield/archives/584611\n\nGenerated from: https://game8.co/gam
+ es/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/584611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supply Exploration Day
+DTSTART:20260319T000000
+DTEND:20260319T000000
+UID:1c44844d7705c144b394032442d762bc@endfield-cal
+DESCRIPTION:Collect items and exchange them for rewards!\n\nSource: https:
+ //game8.co/games/Arknights-Endfield/archives/584448\n\nGenerated from: htt
+ ps://game8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/584448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arknights Endfield Pearl of the Pack Sign-In   Guide
+DTSTART:20260329T000000
+DTEND:20260414T000000
+UID:7a8e4584113479738b8e1f0cac8257e3@endfield-cal
+DESCRIPTION:Login for 7 days to get rewards during the Rossi Sign-In Event
+ !\n\nGenerated from: https://game8.co/games/Arknights-Endfield/archives/53
+ 5443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleanse and Rinse
+DTSTART:20260329T000000
+DTEND:20260329T000000
+UID:94f6d60a8d6e9f3f8138e7ecc827bec6@endfield-cal
+DESCRIPTION:Use a jet drone to cleanse and rinse objectives to get rewards
+ \n\nSource: https://game8.co/games/Arknights-Endfield/archives/584565\n\nG
+ enerated from: https://game8.co/games/Arknights-Endfield/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/584565
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Survival Training
+DTSTART:20260409T000000
+DTEND:20260409T000000
+UID:3c759ef8ed533a9cffd67b74e3256900@endfield-cal
+DESCRIPTION:Clear the tower defense-esque game modes and combat stages to 
+ get all the rewards!\n\nSource: https://game8.co/games/Arknights-Endfield/
+ archives/584581\n\nGenerated from: https://game8.co/games/Arknights-Endfie
+ ld/archives/535443
+URL:https://game8.co/games/Arknights-Endfield/archives/584581
+END:VEVENT
+END:VCALENDAR

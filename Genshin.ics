@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Sightseeing With Friends
+DTSTART:20260316T020000Z
+DTEND:20260325T195900Z
+UID:e248e197f6856e41ac9f7fc96d111efa@hoyo-calendar
+DESCRIPTION:The two of you run into several familiar faces at Bayda Harbor
+  in Sumeru. And so\, a rather special sightseeing journey begins...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260304T020000Z
 DTEND:20260406T195900Z
@@ -15,16 +23,6 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  le Domain\, for only by defeating powerful foes can the turmoil be quelled
  ... Of course\, where danger awaits\, so too do extraordinary treasures...
  \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Homeward\, He Who Caught the Wind
-DTSTART:20260227T020000Z
-DTEND:20260315T195900Z
-UID:2e008f1008cb71e614b769642cfdc370@hoyo-calendar
-DESCRIPTION:One day\, you and Paimon suddenly receive an invitation from t
- he Knights of Favonius. And so\, you return to Mondstadt to take part in a
-  welcome ceremony that feels both familiar and just a little different...\
- n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lament of the Cliff-Shadowed Hollow
@@ -38,6 +36,16 @@ DESCRIPTION:Climb the tower that stands unbroken from the pioneering age.
  s of the lakeside palace. As old enemies regroup beneath the dark\, leaden
   clouds\, the restless north wind carries the marching songs of war once m
  ore.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Tactical Formation
+DTSTART:20260314T020000Z
+DTEND:20260329T195900Z
+UID:ce9ba01d135779984042976c25e8fae9@hoyo-calendar
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
+ that uses special Heated Battle Mode rules.\nRules for this period:\nYou a
+ nd your opponent will use Character Cards selected on the spot and randoml
+ y generated Action Cards to battle.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Endless Swarm

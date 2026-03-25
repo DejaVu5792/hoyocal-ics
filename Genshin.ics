@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Operation Stronghold Defense
+DTSTART:20260323T020000Z
+DTEND:20260401T195900Z
+UID:8c7cdbd43de7f5dbad8eb6242c9d77b7@hoyo-calendar
+DESCRIPTION:In Nod-Krai\, you encounter a messenger named Blue Bolt\, who 
+ seems to be testing a certain mechanical defense unit...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sightseeing With Friends
 DTSTART:20260316T020000Z
 DTEND:20260325T195900Z

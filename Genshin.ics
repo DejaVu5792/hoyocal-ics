@@ -14,14 +14,6 @@ DESCRIPTION:In Nod-Krai\, you encounter a messenger named Blue Bolt\, who
  seems to be testing a certain mechanical defense unit...\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sightseeing With Friends
-DTSTART:20260316T020000Z
-DTEND:20260325T195900Z
-UID:e248e197f6856e41ac9f7fc96d111efa@hoyo-calendar
-DESCRIPTION:The two of you run into several familiar faces at Bayda Harbor
-  in Sumeru. And so\, a rather special sightseeing journey begins...\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260304T020000Z
 DTEND:20260406T195900Z
@@ -46,14 +38,11 @@ DESCRIPTION:Climb the tower that stands unbroken from the pioneering age.
  ore.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Tactical Formation
-DTSTART:20260314T020000Z
-DTEND:20260329T195900Z
-UID:ce9ba01d135779984042976c25e8fae9@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nYou a
- nd your opponent will use Character Cards selected on the spot and randoml
- y generated Action Cards to battle.\n\n
+SUMMARY:Overflowing Abundance
+DTSTART:20260329T200000Z
+DTEND:20260405T195900Z
+UID:38ceb957e47e504e806aef062c48049e@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Endless Swarm

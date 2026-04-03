@@ -5,39 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Supply Exploration Day Supply Event
-DTSTART:20260319T000000
+SUMMARY:Quietly Flows the Spring Guide Event
+DTSTART:20260312T000000
 DTEND:20260402T000000
-UID:e403014e73ef1569f6d98925ece5d7eb@endfield-cal
-DESCRIPTION:Collect items and exchange them for rewards!\n\nSource: https:
- //game8.co/games/Arknights-Endfield/archives/584448
-URL:https://game8.co/games/Arknights-Endfield/archives/584448
+UID:f992cf42f10f70ed05fe32ba6a3233a7@endfield-cal
+DESCRIPTION:Visit Qingbo Stockade and explore the new sub-region to comple
+ te event missions and get rich rewards!\n\nSource: https://game8.co/games/
+ Arknights-Endfield/archives/584611
+URL:https://game8.co/games/Arknights-Endfield/archives/584611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arknights Endfield Sanity Supply Mail Reward Event  Guide
-DTSTART:20260322T000000
-DTEND:20260329T000000
-UID:9eb57c9b937a98a0c123a07fecea65af@endfield-cal
-DESCRIPTION:Log in once a day for one week to receive Emergency Sanity Boo
- sters in the mail!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleanse and Rinse
+SUMMARY:Pearl of the Pack Sign-In
 DTSTART:20260329T000000
-DTEND:20260329T000000
-UID:94f6d60a8d6e9f3f8138e7ecc827bec6@endfield-cal
+DTEND:20260417T000000
+UID:3fdcb948d7890e977ddd0e8ccfa7d084@endfield-cal
+DESCRIPTION:Login for 7 days to get rewards during the Rossi Sign-In Event
+ !\n\nSource: https://game8.co/games/Arknights-Endfield/archives/576094
+URL:https://game8.co/games/Arknights-Endfield/archives/576094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleanse and Rinse Fun and Games Event
+DTSTART:20260329T000000
+DTEND:20260419T000000
+UID:8915cf11436cc5ade7ddac8bc0309f09@endfield-cal
 DESCRIPTION:Use a jet drone to cleanse and rinse objectives to get rewards
  \n\nSource: https://game8.co/games/Arknights-Endfield/archives/584565
 URL:https://game8.co/games/Arknights-Endfield/archives/584565
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Survival Training
-DTSTART:20260409T000000
-DTEND:20260409T000000
-UID:3c759ef8ed533a9cffd67b74e3256900@endfield-cal
-DESCRIPTION:Clear the tower defense-esque game modes and combat stages to 
- get all the rewards!\n\nSource: https://game8.co/games/Arknights-Endfield/
- archives/584581
-URL:https://game8.co/games/Arknights-Endfield/archives/584581
+SUMMARY:Arknights Endfield Journey of the Long-Ear Celebration Event  Guid
+ e
+DTSTART:20260401T000000
+DTEND:20260408T000000
+UID:9709521969b017047f2189ceecef9582@endfield-cal
+DESCRIPTION:Collect various Sights and Souvenirs in your journey and compl
+ ete specified missions to earn generous rewards.
 END:VEVENT
 END:VCALENDAR

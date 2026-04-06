@@ -5,40 +5,39 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Quietly Flows the Spring Guide Event
+SUMMARY:Quietly Flows the Spring
 DTSTART:20260312T000000
 DTEND:20260402T000000
-UID:f992cf42f10f70ed05fe32ba6a3233a7@endfield-cal
-DESCRIPTION:Visit Qingbo Stockade and explore the new sub-region to comple
- te event missions and get rich rewards!\n\nSource: https://game8.co/games/
- Arknights-Endfield/archives/584611
-URL:https://game8.co/games/Arknights-Endfield/archives/584611
+UID:f8019eed5ea8a0dc2d98116d33f7a6a1@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Quiet
+ ly_Flows_the_Spring
+URL:https://endfield.wiki.gg/wiki/Quietly_Flows_the_Spring
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pearl of the Pack Sign-In
-DTSTART:20260329T000000
-DTEND:20260417T000000
-UID:3fdcb948d7890e977ddd0e8ccfa7d084@endfield-cal
-DESCRIPTION:Login for 7 days to get rewards during the Rossi Sign-In Event
- !\n\nSource: https://game8.co/games/Arknights-Endfield/archives/576094
-URL:https://game8.co/games/Arknights-Endfield/archives/576094
+SUMMARY:Exploration Day
+DTSTART:20260319T000000
+DTEND:20260402T000000
+UID:dd7d61e1a7a55e505aa6b09c676f04d9@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Explo
+ ration_Day
+URL:https://endfield.wiki.gg/wiki/Exploration_Day
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleanse and Rinse Fun and Games Event
+SUMMARY:Cleanse and Rinse
 DTSTART:20260329T000000
 DTEND:20260419T000000
-UID:8915cf11436cc5ade7ddac8bc0309f09@endfield-cal
-DESCRIPTION:Use a jet drone to cleanse and rinse objectives to get rewards
- \n\nSource: https://game8.co/games/Arknights-Endfield/archives/584565
-URL:https://game8.co/games/Arknights-Endfield/archives/584565
+UID:94f6d60a8d6e9f3f8138e7ecc827bec6@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Clean
+ se_and_Rinse
+URL:https://endfield.wiki.gg/wiki/Cleanse_and_Rinse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arknights Endfield Journey of the Long-Ear Celebration Event  Guid
- e
+SUMMARY:Journey of the Long-Ear
 DTSTART:20260401T000000
 DTEND:20260408T000000
-UID:9709521969b017047f2189ceecef9582@endfield-cal
-DESCRIPTION:Collect various Sights and Souvenirs in your journey and compl
- ete specified missions to earn generous rewards.
+UID:9d04555a3e17f45fbbf122bffd0f5e3a@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Journ
+ ey_of_the_Long-Ear
+URL:https://endfield.wiki.gg/wiki/Journey_of_the_Long-Ear
 END:VEVENT
 END:VCALENDAR

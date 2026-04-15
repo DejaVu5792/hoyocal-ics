@@ -14,12 +14,4 @@ DESCRIPTION:Graphia Academy is engulfed in chaos\, with danger lurking at
  every turn. Rally your wispae army\, challenge the heroes of this turbulen
  t era\, and reclaim the peace of old!\n\n
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260329T120000Z
-DTEND:20260412T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
 END:VCALENDAR

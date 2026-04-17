@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Endfield Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Arknights: Endfield Events
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:Quietly Flows the Spring
+DTSTART:20250312T040000Z
+DTEND:20250402T090000Z
+UID:ee9fc511bcd2d22224d6f16e6416eba3@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supply: Exploration Day
+DTSTART:20250319T170000Z
+DTEND:20250402T090000Z
+UID:4ee3a906af293059da9f4d1991a1ef4d@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monumental Etching: Scorch Mark
+DTSTART:20250326T170000Z
+DTEND:20250410T090000Z
+UID:1fed4480c7b36f585de17e8ae5b6004b@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleanse and Rise
+DTSTART:20250329T170000Z
+DTEND:20250419T090000Z
+UID:bba523fbfd1c322e552cf5bd7567967b@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journey of the Long-Ear
+DTSTART:20250401T170000Z
+DTEND:20250408T090000Z
+UID:6cbae1c27501f0ae1d998ddcdc354388@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Survival Traning
+DTSTART:20250409T170000Z
+DTEND:20250430T090000Z
+UID:c7ee33a26231b936ce2440be34be5634@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Subduer of the Blighted Sea
+DTSTART:20250417T040000Z
+DTEND:20250514T090000Z
+UID:b747b6ecefd33eb0c546b8542ba0bb04@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pristine Monthly Pass Tribute
+DTSTART:20250417T040000Z
+DTEND:20250518T090000Z
+UID:af7940160507098d9d9d9ebc3858d8cb@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snapshot: Etchings of Our Cosmic Dreams
+DTSTART:20250424T170000Z
+DTEND:20250605T090000Z
+UID:f0d560c69d9290be1f29f7b6e194b6d8@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIC Support: Palm-Top Savior
+DTSTART:20250428T170000Z
+DTEND:20250513T210000Z
+UID:5b1467449e34a703e8960d090e48fc45@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monumental Etching: Corrupting Surge
+DTSTART:20250508T170000Z
+DTEND:20250522T090000Z
+UID:e397dc12ef49985ea4630ec78414db37@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supply: Wuling Super Chef
+DTSTART:20250514T170000Z
+DTEND:20250605T090000Z
+UID:742ad2809c85e44640e42bc8fa5a90b4@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Curious Use of Xiranite
+DTSTART:20250514T170000Z
+DTEND:20250605T090000Z
+UID:c79422bfa343d6dd9f207474c6d69eb2@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+END:VCALENDAR

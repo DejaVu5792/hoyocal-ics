@@ -17,16 +17,6 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Surveying & Mapping Studies
-DTSTART:20260410T020000Z
-DTEND:20260419T195900Z
-UID:3e59c4946cc61a45d4dc80d2aa2433da@hoyo-calendar
-DESCRIPTION:For the purpose of exchanging surveying and mapping experience
-  and making progress together\, Mika from the Reconnaissance Company is wo
- rking with excellent knights from other squads to conduct an interesting s
- urveying and mapping exercise...\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Stilled Interstice of a Thousand Winds
 DTSTART:20260407T230000Z
 DTEND:20260630T065900Z

@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Rapid Capture
+DTSTART:20260506T020000Z
+DTEND:20260517T195900Z
+UID:67d30827deb008f7a67fceb6da64f1ac@hoyo-calendar
+DESCRIPTION:One day\, you and Paimon seem to hear someone arguing near the
+  Fountain of Lucine...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Where Waves Meet the Reef
 DTSTART:20260427T020000Z
 DTEND:20260513T195900Z

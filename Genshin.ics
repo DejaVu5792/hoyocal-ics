@@ -44,14 +44,11 @@ DESCRIPTION:The gentle sea breeze carries the scent of fine wine through t
  peaceful rest\, or an adventure beyond mortal imagination?\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Automatic Artistry
-DTSTART:20260425T020000Z
-DTEND:20260510T195900Z
-UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
- t characters specially dedicated to this mode to build a team and enhance 
- them. Characters will automatically battle!\n\n
+SUMMARY:Ley Line Overflow
+DTSTART:20260510T200000Z
+DTEND:20260517T195900Z
+UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Game of Wits

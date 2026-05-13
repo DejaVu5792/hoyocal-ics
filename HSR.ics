@@ -16,17 +16,6 @@ DESCRIPTION:Upon arriving at Planarcadia\, Himeko proposes holding a celeb
  osmos.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cosmicon\, Roll On Again!
-DTSTART:20260428T200000Z
-DTEND:20260531T115900Z
-UID:db706821dcbd3e47f825e59b6beb7e04@hoyo-calendar
-DESCRIPTION:Will the "Cosmicon Collective" fire the opening shot in the tr
- ade war sparked by the arrival of the <i>Furbobo Weekly</i> pop-up store i
- n Seafeld City? Talk to Paraprince to kick off your business empire in Sea
- feld City! Your rank may not always roll up\, but your dice certainly will
- .\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Relic Recon
 DTSTART:20260419T120000Z
 DTEND:20260531T115900Z
@@ -47,6 +36,17 @@ DTSTART:20260420T120000Z
 DTEND:20260531T115900Z
 UID:c4dafd987df9069f949cdeb06da7448d@hoyo-calendar
 DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmicon\, Roll On Again!
+DTSTART:20260428T200000Z
+DTEND:20260531T115900Z
+UID:db706821dcbd3e47f825e59b6beb7e04@hoyo-calendar
+DESCRIPTION:Will the "Cosmicon Collective" fire the opening shot in the tr
+ ade war sparked by the arrival of the <i>Furbobo Weekly</i> pop-up store i
+ n Seafeld City? Talk to Paraprince to kick off your business empire in Sea
+ feld City! Your rank may not always roll up\, but your dice certainly will
+ .\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Planar Fissure 300%

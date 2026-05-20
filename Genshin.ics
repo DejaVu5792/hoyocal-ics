@@ -6,55 +6,10 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Rapid Capture
-DTSTART:20260506T020000Z
-DTEND:20260517T195900Z
-UID:67d30827deb008f7a67fceb6da64f1ac@hoyo-calendar
-DESCRIPTION:One day\, you and Paimon seem to hear someone arguing near the
-  Fountain of Lucine...\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Where Waves Meet the Reef
-DTSTART:20260427T020000Z
-DTEND:20260513T195900Z
-UID:9f8405907dcb1fdd75cbefdcae70375a@hoyo-calendar
-DESCRIPTION:You and Paimon receive a letter from the Curatorium of Secrets
- . Nefer seems to have a commission that only you can handle...\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260415T020000Z
-DTEND:20260518T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stilled Interstice of a Thousand Winds
-DTSTART:20260407T230000Z
-DTEND:20260630T065900Z
-UID:c26e37df5eb3909a629ca49e14175ec0@hoyo-calendar
-DESCRIPTION:The gentle sea breeze carries the scent of fine wine through t
- he bustling port.\nYet there are places that even the ever-present wind ca
- nnot reach\, or rather\, it chooses not to.\nShould one choose to follow a
-  secluded path to the tranquil mountain sanatorium\, what might await — 
- peaceful rest\, or an adventure beyond mortal imagination?\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ley Line Overflow
-DTSTART:20260510T200000Z
-DTEND:20260517T195900Z
-UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Game of Wits
-DTSTART:20260407T230000Z
-DTEND:20260519T230000Z
-UID:cf00b4db12bb7315d6c466bf4b3e1773@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Clever Stratagems
+DTSTART:20260519T230000Z
+DTEND:20260630T230000Z
+UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

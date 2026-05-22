@@ -16,19 +16,19 @@ DESCRIPTION:Upon arriving at Planarcadia\, Himeko proposes holding a celeb
  osmos.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Relic Recon
-DTSTART:20260419T120000Z
-DTEND:20260531T115900Z
-UID:7c2e57064a585a1dc2924fd19bf39f24@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Realm of the Strange 300%
 DTSTART:20260521T120000Z
 DTEND:20260531T115900Z
 UID:36d368238719e37d147a7ae8c4aaffcc@hoyo-calendar
 DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
   to earn triple rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Relic Recon
+DTSTART:20260419T120000Z
+DTEND:20260531T115900Z
+UID:7c2e57064a585a1dc2924fd19bf39f24@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festive Gifts

@@ -6,6 +6,15 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Phantasmal Pals
+DTSTART:20260522T020000Z
+DTEND:20260607T195900Z
+UID:983da57dd62ddd105b73abf5582cb9a3@hoyo-calendar
+DESCRIPTION:While heading to Aisa Bathhouse to relax\, you meet a peculiar
+  child in Chinju Forest\, setting the stage for another whimsical adventur
+ e...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems
 DTSTART:20260519T230000Z
 DTEND:20260630T230000Z

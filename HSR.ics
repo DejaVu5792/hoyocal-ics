@@ -16,14 +16,6 @@ DESCRIPTION:Upon arriving at Planarcadia\, Himeko proposes holding a celeb
  osmos.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Realm of the Strange 300%
-DTSTART:20260521T120000Z
-DTEND:20260531T115900Z
-UID:36d368238719e37d147a7ae8c4aaffcc@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
-  to earn triple rewards.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Relic Recon
 DTSTART:20260419T120000Z
 DTEND:20260531T115900Z
@@ -47,6 +39,14 @@ DESCRIPTION:Will the "Cosmicon Collective" fire the opening shot in the tr
  n Seafeld City? Talk to Paraprince to kick off your business empire in Sea
  feld City! Your rank may not always roll up\, but your dice certainly will
  .\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Realm of the Strange 300%
+DTSTART:20260521T120000Z
+DTEND:20260531T115900Z
+UID:36d368238719e37d147a7ae8c4aaffcc@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
+  to earn triple rewards.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:To The Ones That Blaze

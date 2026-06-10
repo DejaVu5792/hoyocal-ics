@@ -6,6 +6,16 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Trials of the Brave Warrior
+DTSTART:20260608T020000Z
+DTEND:20260617T195900Z
+UID:a0a93067bab035d3b1f33d6c5e81a63e@hoyo-calendar
+DESCRIPTION:A group of expert fighters has gathered in Nod-Krai's Nasha To
+ wn to compete for the crown of the "Technical Martial Challenge." While th
+ e competition is locked in a stalemate\, the arrival of you and Paimon cou
+ ld be the key to deciding a winner...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260527T020000Z
 DTEND:20260629T195900Z
@@ -17,19 +27,24 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Sprinting Stratagems
+DTSTART:20260606T020000Z
+DTEND:20260621T195900Z
+UID:21e5c13404105741e47214335648c3b5@hoyo-calendar
+DESCRIPTION:At The Cat's Tail\, entertaining events are held regularly\, a
+ nd each event will adopt a special set of Heated Battle Mode rules.\nThe r
+ ules this time are as follows:\n1. You and your opponent will use Characte
+ r Cards selected on the spot and randomly generated Action Cards to battle
+ .\n2. During the Roll phase\, you will not roll Elemental Dice but instead
+  will receive 4 Omni Dice and 4 different random Elemental Dice.\n3. Once 
+ each round\, playing an Action Card will cost 2 fewer Elemental Dice.\n4. 
+ Switching Character Cards is always a Fast Action.\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems
 DTSTART:20260519T230000Z
 DTEND:20260630T230000Z
 UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
 DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phantasmal Pals
-DTSTART:20260522T020000Z
-DTEND:20260607T195900Z
-UID:983da57dd62ddd105b73abf5582cb9a3@hoyo-calendar
-DESCRIPTION:While heading to Aisa Bathhouse to relax\, you meet a peculiar
-  child in Chinju Forest\, setting the stage for another whimsical adventur
- e...\n\n
 END:VEVENT
 END:VCALENDAR

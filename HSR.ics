@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20260616T120000Z
+DTEND:20260628T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pixel Plane Rumble
 DTSTART:20260530T120000Z
 DTEND:20260714T115900Z
@@ -15,14 +23,6 @@ DESCRIPTION:A classic game returns to the arcadian skies as pixel planes t
   only the final victor can claim air superiority... Customize your ultimat
  e aircraft\, devise a winning strategy\, and break through the bullet hell
  !\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260616T120000Z
-DTEND:20260628T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wispae Amusement Park

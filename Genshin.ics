@@ -6,14 +6,12 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Trials of the Brave Warrior
-DTSTART:20260608T020000Z
-DTEND:20260617T195900Z
-UID:a0a93067bab035d3b1f33d6c5e81a63e@hoyo-calendar
-DESCRIPTION:A group of expert fighters has gathered in Nod-Krai's Nasha To
- wn to compete for the crown of the "Technical Martial Challenge." While th
- e competition is locked in a stalemate\, the arrival of you and Paimon cou
- ld be the key to deciding a winner...\n\n
+SUMMARY:Kaleidoscopic Color Chase
+DTSTART:20260618T020000Z
+DTEND:20260628T195900Z
+UID:8d70009cc95a61f8724e14d92477529c@hoyo-calendar
+DESCRIPTION:You return to the Easybreeze Holiday Resort\, where you run in
+ to an old friend together with some rather special Ashas...\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stygian Onslaught

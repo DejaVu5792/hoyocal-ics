@@ -6,43 +6,20 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Kaleidoscopic Color Chase
-DTSTART:20260618T020000Z
-DTEND:20260628T195900Z
-UID:8d70009cc95a61f8724e14d92477529c@hoyo-calendar
-DESCRIPTION:You return to the Easybreeze Holiday Resort\, where you run in
- to an old friend together with some rather special Ashas...\n\n
+SUMMARY:Sunny Summer Fontinalia
+DTSTART:20260630T020000Z
+DTEND:20260810T195900Z
+UID:f67b4c66180cd896c1c5861cbdb76f2a@hoyo-calendar
+DESCRIPTION:The Fontinalia Film Festival is here\, and all kinds of wonder
+ ful films are being prepared with great excitement! Let's follow the summe
+ r breeze back to Fontaine and take a look. Who knows? We might even run in
+ to some old friends there!\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260527T020000Z
-DTEND:20260629T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Sprinting Stratagems
-DTSTART:20260606T020000Z
-DTEND:20260621T195900Z
-UID:21e5c13404105741e47214335648c3b5@hoyo-calendar
-DESCRIPTION:At The Cat's Tail\, entertaining events are held regularly\, a
- nd each event will adopt a special set of Heated Battle Mode rules.\nThe r
- ules this time are as follows:\n1. You and your opponent will use Characte
- r Cards selected on the spot and randomly generated Action Cards to battle
- .\n2. During the Roll phase\, you will not roll Elemental Dice but instead
-  will receive 4 Omni Dice and 4 different random Elemental Dice.\n3. Once 
- each round\, playing an Action Card will cost 2 fewer Elemental Dice.\n4. 
- Switching Character Cards is always a Fast Action.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Clever Stratagems
-DTSTART:20260519T230000Z
-DTEND:20260630T230000Z
-UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Endless Swarm
+DTSTART:20260630T230000Z
+DTEND:20260811T230000Z
+UID:bc32182d1c525c5e34646eef1570b85f@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

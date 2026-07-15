@@ -5,136 +5,55 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Subduer of the Blighted Sea
-DTSTART:20250118T040000Z
-DTEND:20250214T090000Z
-UID:c762e39047b0604e975b0ca64547e7aa@endfield-cal
+SUMMARY:Gaze Towards the Northem Exclusion
+DTSTART:20250418T030000Z
+DTEND:20250512T170000Z
+UID:33098825926dbd90d3042e6f6739e8d9@endfield-cal
 DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
  ://goyfield.moe/events
 URL:https://goyfield.moe/events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pristine Monthly Pass Tribute
-DTSTART:20250118T040000Z
-DTEND:20250218T090000Z
-UID:56870d4c77a9aaf35133d02beb8fd849@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Snapshot: Etchings of Our Cosmic Dreams
-DTSTART:20250125T170000Z
-DTEND:20250307T220000Z
-UID:a670e4be2b1ceab6c919ac844fa8b30e@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIC Support: Palm-Top Savior
-DTSTART:20250129T170000Z
-DTEND:20250213T210000Z
-UID:449cb989d807db05d598934e4d32721d@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Party Together] - [Pastry Tower]
-DTSTART:20250201T170000Z
-DTEND:20250307T220000Z
-UID:f8878d52ee34a2b355eb8917cf573b43@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monumental Etching: Corrupting Surge
-DTSTART:20250208T170000Z
-DTEND:20250222T090000Z
-UID:75b1184d2c8c8474764dfbd37521158d@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supply: Wuling Super Chef
-DTSTART:20250214T170000Z
-DTEND:20250307T220000Z
-UID:e0e0535eb307f60870d4471d8dd0c35a@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Curious Use of Xiranite
-DTSTART:20250214T170000Z
-DTEND:20250307T220000Z
-UID:505fa3dfc2603498dff987f3c27e83aa@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Search for Sword Vault Dale
-DTSTART:20250308T030000Z
-DTEND:20250329T170000Z
-UID:3e13a36d96192478374417180b4c91b9@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contingency Readiness
-DTSTART:20250315T090000Z
-DTEND:20250322T090000Z
-UID:fce2372d13ac603365c7f426508fc0b1@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trial Algorithmics
-DTSTART:20250315T170000Z
-DTEND:20250418T090000Z
-UID:7b52686e3aae79ad89a968c8e3a2a576@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contingency Contract
-DTSTART:20250322T170000Z
-DTEND:20250418T090000Z
-UID:ad0917499d3bf85642fb43ac80dec9e3@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carly's Fairytale of Wuling
-DTSTART:20250404T170000Z
-DTEND:20250418T090000Z
-UID:807b749a1670baf2383c81ba278ec8ec@endfield-cal
-DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
- ://goyfield.moe/events
-URL:https://goyfield.moe/events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monumental Etching: Dirge of Grief
-DTSTART:20250404T170000Z
-DTEND:20250418T090000Z
-UID:cfd4ec4c87dbaf235029d4358f230c7f@endfield-cal
+SUMMARY:HEAT RAGE! MEGA ARENA!
+DTSTART:20250502T170000Z
+DTEND:20250516T090000Z
+UID:1f431dea28076ea6b539d40e29fcd6a0@endfield-cal
 DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
  ://goyfield.moe/events
 URL:https://goyfield.moe/events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sanity Supply
-DTSTART:20250411T090000Z
-DTEND:20250418T090000Z
-UID:409830fc32bf0b6b0379338101b3d7b8@endfield-cal
+DTSTART:20250505T090000Z
+DTEND:20250512T090000Z
+UID:f7f59c5b7976b296af0bb1fb68d121c1@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monumental Etching: Beastly Howl
+DTSTART:20250509T170000Z
+DTEND:20250523T090000Z
+UID:38d21005e65e4cc983186977ef315919@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rooted Realm
+DTSTART:20250512T170000Z
+DTEND:20250604T220000Z
+UID:04227085902099c6e683f37d146d10fa@endfield-cal
+DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
+ ://goyfield.moe/events
+URL:https://goyfield.moe/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanity Supply
+DTSTART:20250529T090000Z
+DTEND:20250604T220000Z
+UID:c309e84c5a817fb8b8fe7a6ff1e04d57@endfield-cal
 DESCRIPTION:Source: goyfield.moe\nCategory: Limited Event\n\nSource: https
  ://goyfield.moe/events
 URL:https://goyfield.moe/events

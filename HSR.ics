@@ -6,33 +6,39 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Wispae Amusement Park
-DTSTART:20260623T200000Z
-DTEND:20260714T115900Z
-UID:9777779ae8c527204290a1fd5b9e7407@hoyo-calendar
-DESCRIPTION:Trendy styles change in the blink of an eye\, bringing an oppo
- rtunity for Star Rail FEST's renewal. Plan out the routes\, cleverly arran
- ge the facilities\, and build an exclusive arcadia for the wispae in the W
- orld in Canvas! Your creative concepts will serve as the perfect inspirati
- on for optimizing the Exhibition Area.\n\n
+SUMMARY:Antigraft Brickbuster
+DTSTART:20260712T120000Z
+DTEND:20260825T115900Z
+UID:7bca37407a926588edbc4438e05a88c5@hoyo-calendar
+DESCRIPTION:No corner stays dust-free forever. At Aventurine's request\, y
+ ou launched an investigation into IPC corruption by hacking into their dat
+ abase.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pixel Plane Rumble
-DTSTART:20260530T120000Z
-DTEND:20260714T115900Z
-UID:cd6439fa56bb080a6cc1915038a38223@hoyo-calendar
-DESCRIPTION:A classic game returns to the arcadian skies as pixel planes t
- ake flight once again. In a fierce dogfight between ninety-nine fighters\,
-  only the final victor can claim air superiority... Customize your ultimat
- e aircraft\, devise a winning strategy\, and break through the bullet hell
- !\n\n
+SUMMARY:Imagenae: Holy Grail War
+DTSTART:20260723T200000Z
+DTEND:20260825T115900Z
+UID:0b53f23b2071f3e14ca067b215c1c51a@hoyo-calendar
+DESCRIPTION:A golden rain falls. A Holy Grail\, stolen. Somewhere in the s
+ hadows beyond the Phantasmoon's reach\, a certain king's treasury has unex
+ pectedly shattered into shambles.\nTo prevent chaos\, you'll have no choic
+ e but to team up with Rin Tohsaka\, a mage from another world\, to restore
+  order\, and while you're at it\, to claim your own share of the treasure.
+ \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Realm of the Strange
-DTSTART:20260702T120000Z
-DTEND:20260712T115900Z
-UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
-  to earn double rewards.\n\n
+SUMMARY:Fate Contract: Renewal
+DTSTART:20260723T200000Z
+DTEND:20261110T145900Z
+UID:e347b21c28c7a33dac24d9393531a853@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20260726T120000Z
+DTEND:20260809T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 END:VCALENDAR

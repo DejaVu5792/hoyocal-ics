@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Final Long-Range Sightlines
+DTSTART:20260717T020000Z
+DTEND:20260726T195900Z
+UID:ed3ae5bf3864bd561079118068a28fe4@hoyo-calendar
+DESCRIPTION:Warriors from across Teyvat continue to exchange techniques an
+ d refine their tactics together. Recently\, skilled shooters from the Knig
+ hts of Favonius\, Fontaine's Maison Gardiennage\, and Natlan's Flower-Feat
+ her Clan assembled at Lumidouce Harbor for a distinctive joint exercise...
+ \n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260708T020000Z
 DTEND:20260810T195900Z

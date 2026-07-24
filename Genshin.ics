@@ -6,6 +6,15 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Dance Dance Easy-Breezy Disco
+DTSTART:20260724T020000Z
+DTEND:20260802T195900Z
+UID:5c574e06db375448268190b494031149@hoyo-calendar
+DESCRIPTION:A courier comes bearing good news — another party is about t
+ o kick off at Easybreeze Holiday Resort! This time\, unexpected new guests
+  will join the rhythmic ensemble and dance joyfully with us!\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final Long-Range Sightlines
 DTSTART:20260717T020000Z
 DTEND:20260726T195900Z

@@ -14,10 +14,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Zerot
 URL:https://endfield.wiki.gg/wiki/Zeroth_Directive
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Firewalker's TrailFile:Firewalker's Trail signin event big.png
+SUMMARY:Firewalker's Trail
 DTSTART;TZID=Asia/Shanghai:20260122T000000
 DTEND;TZID=Asia/Shanghai:20260208T000000
-UID:e92a8a898c200eda03289922f309875e@endfield-cal
+UID:b2fd2ae76d68830efdbaf1a6d3b55dd0@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Firew
  alker%27s_Trail
 URL:https://endfield.wiki.gg/wiki/Firewalker%27s_Trail
@@ -32,10 +32,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Let_F
 URL:https://endfield.wiki.gg/wiki/Let_Fire_Consume_the_Ashen_Past
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lone WolfFile:Lone Wolf narrative event big.png
+SUMMARY:Lone Wolf
 DTSTART;TZID=Asia/Shanghai:20260122T000000
 DTEND;TZID=Asia/Shanghai:20260312T000000
-UID:c28311133b35dfe8a5afa052d03e1092@endfield-cal
+UID:d971b0404f10994834ec9041f37e2869@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Lone_
  Wolf
 URL:https://endfield.wiki.gg/wiki/Lone_Wolf
@@ -59,10 +59,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Lette
 URL:https://endfield.wiki.gg/wiki/Letter_from_a_Messenger
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Messenger ExpressFile:Messenger Express signin event big.png
+SUMMARY:Messenger Express
 DTSTART;TZID=Asia/Shanghai:20260207T000000
 DTEND;TZID=Asia/Shanghai:20260225T000000
-UID:e98a055b6df9ab321c63936b22788fce@endfield-cal
+UID:4c5d05b3fd2b38158ef792ad6f62bc65@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Messe
  nger_Express
 URL:https://endfield.wiki.gg/wiki/Messenger_Express
@@ -86,11 +86,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
 URL:https://endfield.wiki.gg/wiki/Carly%27s_Fairytale_of_the_Valley
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monumental Etching: Old WoundsFile:Monumental Etching: Old Wounds 
- event.png
+SUMMARY:Monumental Etching: Old Wounds
 DTSTART;TZID=Asia/Shanghai:20260212T000000
 DTEND;TZID=Asia/Shanghai:20260312T000000
-UID:990db8f74f615ee2814f46dca30c3156@endfield-cal
+UID:1024a7dde25e332178c2ba4c3a29a738@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Old_Wounds
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Old_Wounds
@@ -123,10 +122,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Steps
 URL:https://endfield.wiki.gg/wiki/Steps_to_Sweet_Success
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spectral SplendorFile:Spectral Splendor signin event big.png
+SUMMARY:Spectral Splendor
 DTSTART;TZID=Asia/Shanghai:20260224T000000
 DTEND;TZID=Asia/Shanghai:20260312T000000
-UID:291c46913247879e9ab65156b1934ba8@endfield-cal
+UID:b9bb3e0cd1a4fe86ea01c24c5ea5cfb0@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spect
  ral_Splendor
 URL:https://endfield.wiki.gg/wiki/Spectral_Splendor
@@ -151,10 +150,10 @@ URL:https://endfield.wiki.gg/wiki/Old_Deep_Water_Dies,_by_Rising_Tide_It_i
  s_Denied
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gently Flows QingboFile:Gently Flows Qingbo signin event big.png
+SUMMARY:Gently Flows Qingbo
 DTSTART;TZID=Asia/Shanghai:20260312T000000
 DTEND;TZID=Asia/Shanghai:20260330T000000
-UID:99d21f7dee85d1a2c79306f6a5507837@endfield-cal
+UID:a23183ace6e08167f763cc38ffadf51f@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Gentl
  y_Flows_Qingbo
 URL:https://endfield.wiki.gg/wiki/Gently_Flows_Qingbo
@@ -178,20 +177,19 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Suppl
 URL:https://endfield.wiki.gg/wiki/Supply:_Exploration_Day
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monumental Etching: Scorch MarkFile:Monumental Etching: Scorch Mar
- k event.png
+SUMMARY:Monumental Etching: Scorch Mark
 DTSTART;TZID=Asia/Shanghai:20260326T000000
 DTEND;TZID=Asia/Shanghai:20260409T000000
-UID:de732d18b99f3984619f9c66a74fa468@endfield-cal
+UID:0e3926634daf9d05158fd92bdd8e3f9f@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Scorch_Mark
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Scorch_Mark
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pearl of the PackFile:Pearl of the Pack signin event big.png
+SUMMARY:Pearl of the Pack
 DTSTART;TZID=Asia/Shanghai:20260329T000000
 DTEND;TZID=Asia/Shanghai:20260417T000000
-UID:6088be89c1634285abdb4becf0447926@endfield-cal
+UID:f702b5d2e172a7c48b4afe735f774f00@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Pearl
  _of_the_Pack
 URL:https://endfield.wiki.gg/wiki/Pearl_of_the_Pack
@@ -251,10 +249,10 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/At_th
 URL:https://endfield.wiki.gg/wiki/At_the_Wake_of_Spring
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blitz of VerdanceFile:Blitz of Verdance signin event big.png
+SUMMARY:Blitz of Verdance
 DTSTART;TZID=Asia/Shanghai:20260417T000000
 DTEND;TZID=Asia/Shanghai:20260523T000000
-UID:b36e89e0682383fe82c62829cea43407@endfield-cal
+UID:49091a1750c9aaed378d05cc022d5907@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Blitz
  _of_Verdance
 URL:https://endfield.wiki.gg/wiki/Blitz_of_Verdance
@@ -305,20 +303,19 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Party
 URL:https://endfield.wiki.gg/wiki/Party_Together
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monumental Etching: Corrupting SurgeFile:Monumental Etching: Corru
- pting Surge event.png
+SUMMARY:Monumental Etching: Corrupting Surge
 DTSTART;TZID=Asia/Shanghai:20260508T000000
 DTEND;TZID=Asia/Shanghai:20260605T000000
-UID:519c861af4b5fe85836c52cfb8701bcc@endfield-cal
+UID:a12e71745cee071bf57992b56d2a0578@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Corrupting_Surge
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Corrupting_Surge
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shimmering MomentFile:Shimmering Moment signin event big.png
+SUMMARY:Shimmering Moment
 DTSTART;TZID=Asia/Shanghai:20260514T000000
 DTEND;TZID=Asia/Shanghai:20260605T000000
-UID:1130eba02d113be171470550c1f6edf1@endfield-cal
+UID:4d94a1c5371f0f2d729c100afad21b5d@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Shimm
  ering_Moment
 URL:https://endfield.wiki.gg/wiki/Shimmering_Moment
@@ -514,29 +511,28 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Fortu
 URL:https://endfield.wiki.gg/wiki/Fortune_Connect-and-Win
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HEAT RAGE! MEGA ARENA!File:HEAT RAGE! MEGA ARENA! event.png
+SUMMARY:HEAT RAGE! MEGA ARENA!
 DTSTART;TZID=Asia/Shanghai:20260730T000000
 DTEND;TZID=Asia/Shanghai:20260813T000000
-UID:465560e273d14b73c404c1d070fc3271@endfield-cal
+UID:f1a30f97f6ca8bbbe732a15abc089b51@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/HEAT_
  RAGE!_MEGA_ARENA!
 URL:https://endfield.wiki.gg/wiki/HEAT_RAGE!_MEGA_ARENA!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bedazzling DawnstarFile:Bedazzling Dawnstar signin event big.png
+SUMMARY:Bedazzling Dawnstar
 DTSTART;TZID=Asia/Shanghai:20260809T000000
 DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:bb8121620d63f6ae479a89af72e6eeae@endfield-cal
+UID:69d8d82227dc2df5bcc37e2a02acd4ff@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Bedaz
  zling_Dawnstar
 URL:https://endfield.wiki.gg/wiki/Bedazzling_Dawnstar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Like a Star Streaking Through the BoundariesFile:Like a Star Strea
- king Through the Boundaries narrative event big.png
+SUMMARY:Like a Star Streaking Through the Boundaries
 DTSTART;TZID=Asia/Shanghai:20260809T000000
 DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:3ea6448c8283a4f90b7f3d1d1c876ef3@endfield-cal
+UID:657cb98758e825cae42d75b0add97a14@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Like_
  a_Star_Streaking_Through_the_Boundaries
 URL:https://endfield.wiki.gg/wiki/Like_a_Star_Streaking_Through_the_Bounda

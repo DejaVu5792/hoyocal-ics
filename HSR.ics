@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Antigraft Brickbuster
-DTSTART:20260712T120000Z
-DTEND:20260825T115900Z
-UID:7bca37407a926588edbc4438e05a88c5@hoyo-calendar
-DESCRIPTION:No corner stays dust-free forever. At Aventurine's request\, y
- ou launched an investigation into IPC corruption by hacking into their dat
- abase.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Imagenae: Holy Grail War
 DTSTART:20260723T200000Z
 DTEND:20260825T115900Z
@@ -25,6 +16,15 @@ DESCRIPTION:A golden rain falls. A Holy Grail\, stolen. Somewhere in the s
  e but to team up with Rin Tohsaka\, a mage from another world\, to restore
   order\, and while you're at it\, to claim your own share of the treasure.
  \n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antigraft Brickbuster
+DTSTART:20260712T120000Z
+DTEND:20260825T115900Z
+UID:7bca37407a926588edbc4438e05a88c5@hoyo-calendar
+DESCRIPTION:No corner stays dust-free forever. At Aventurine's request\, y
+ ou launched an investigation into IPC corruption by hacking into their dat
+ abase.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fate Contract: Renewal

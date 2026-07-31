@@ -14,15 +14,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Gaze_
 URL:https://endfield.wiki.gg/wiki/Gaze_North_to_the_Rift
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fortune Connect-and-Win
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260731T000000
-UID:2f28819ac37b4e6fffc68b4b45f7d18a@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Fortu
- ne_Connect-and-Win
-URL:https://endfield.wiki.gg/wiki/Fortune_Connect-and-Win
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Season of Recalling
 DTSTART;TZID=Asia/Shanghai:20260716T000000
 DTEND;TZID=Asia/Shanghai:20260810T000000

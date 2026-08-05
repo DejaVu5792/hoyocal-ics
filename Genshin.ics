@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Dance Dance Easy-Breezy Disco
-DTSTART:20260724T020000Z
-DTEND:20260802T195900Z
-UID:5c574e06db375448268190b494031149@hoyo-calendar
-DESCRIPTION:A courier comes bearing good news — another party is about t
- o kick off at Easybreeze Holiday Resort! This time\, unexpected new guests
-  will join the rhythmic ensemble and dance joyfully with us!\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260708T020000Z
 DTEND:20260810T195900Z
@@ -36,14 +27,11 @@ DESCRIPTION:The Fontinalia Film Festival is here\, and all kinds of wonder
  to some old friends there!\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Automatic Artistry
-DTSTART:20260718T020000Z
-DTEND:20260802T195900Z
-UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
- t characters specially dedicated to this mode to build a team and enhance 
- them. Characters will automatically battle!\n\n
+SUMMARY:Ley Line Overflow
+DTSTART:20260802T200000Z
+DTEND:20260809T195900Z
+UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Endless Swarm

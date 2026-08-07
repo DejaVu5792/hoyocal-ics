@@ -23,15 +23,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
 URL:https://endfield.wiki.gg/wiki/Season_of_Recalling
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tribute of Companionship
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260810T000000
-UID:5497b6659fdba5cbfd2dc650b12ec1ec@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Tribu
- te_of_Companionship
-URL:https://endfield.wiki.gg/wiki/Tribute_of_Companionship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gaze Towards the Northern Exclusion
 DTSTART;TZID=Asia/Shanghai:20260716T000000
 DTEND;TZID=Asia/Shanghai:20260810T000000
@@ -41,6 +32,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Gaze_
 URL:https://endfield.wiki.gg/wiki/Gaze_Towards_the_Northern_Exclusion
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tribute of Companionship
+DTSTART;TZID=Asia/Shanghai:20260716T000000
+DTEND;TZID=Asia/Shanghai:20260810T000000
+UID:5497b6659fdba5cbfd2dc650b12ec1ec@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Tribu
+ te_of_Companionship
+URL:https://endfield.wiki.gg/wiki/Tribute_of_Companionship
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HEAT RAGE! MEGA ARENA!
 DTSTART;TZID=Asia/Shanghai:20260730T000000
 DTEND;TZID=Asia/Shanghai:20260813T000000
@@ -48,6 +48,15 @@ UID:f1a30f97f6ca8bbbe732a15abc089b51@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/HEAT_
  RAGE!_MEGA_ARENA!
 URL:https://endfield.wiki.gg/wiki/HEAT_RAGE!_MEGA_ARENA!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanity Supply
+DTSTART;TZID=Asia/Shanghai:20260801T000000
+DTEND;TZID=Asia/Shanghai:20260809T000000
+UID:5489d912c11eab95c7ce0557a8505292@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
+ y_Supply
+URL:https://endfield.wiki.gg/wiki/Sanity_Supply
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bedazzling Dawnstar

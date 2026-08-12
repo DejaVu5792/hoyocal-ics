@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Gaze North to the Rift
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260810T000000
-UID:b105a9dac7909e6a589e472569a80e45@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Gaze_
- North_to_the_Rift
-URL:https://endfield.wiki.gg/wiki/Gaze_North_to_the_Rift
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Season of Recalling
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260810T000000
-UID:b80a5508b2e328980fa6c391af9e0d6d@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Recalling
-URL:https://endfield.wiki.gg/wiki/Season_of_Recalling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gaze Towards the Northern Exclusion
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260810T000000
-UID:7405e0e4e7aff0dbdae9e8511e7e9e13@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Gaze_
- Towards_the_Northern_Exclusion
-URL:https://endfield.wiki.gg/wiki/Gaze_Towards_the_Northern_Exclusion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tribute of Companionship
-DTSTART;TZID=Asia/Shanghai:20260716T000000
-DTEND;TZID=Asia/Shanghai:20260810T000000
-UID:5497b6659fdba5cbfd2dc650b12ec1ec@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Tribu
- te_of_Companionship
-URL:https://endfield.wiki.gg/wiki/Tribute_of_Companionship
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEAT RAGE! MEGA ARENA!
 DTSTART;TZID=Asia/Shanghai:20260730T000000
 DTEND;TZID=Asia/Shanghai:20260813T000000
@@ -50,13 +14,13 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/HEAT_
 URL:https://endfield.wiki.gg/wiki/HEAT_RAGE!_MEGA_ARENA!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sanity Supply
-DTSTART;TZID=Asia/Shanghai:20260801T000000
-DTEND;TZID=Asia/Shanghai:20260809T000000
-UID:5489d912c11eab95c7ce0557a8505292@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
- y_Supply
-URL:https://endfield.wiki.gg/wiki/Sanity_Supply
+SUMMARY:Monumental Etching: Beastly Howl
+DTSTART;TZID=Asia/Shanghai:20260806T000000
+DTEND;TZID=Asia/Shanghai:20260820T000000
+UID:aa00003e83de3d1a8ff500d890aa12b6@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
+ ental_Etching:_Beastly_Howl
+URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Beastly_Howl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bedazzling Dawnstar
@@ -76,5 +40,14 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Like_
  a_Star_Streaking_Through_the_Boundaries
 URL:https://endfield.wiki.gg/wiki/Like_a_Star_Streaking_Through_the_Bounda
  ries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Delirating
+DTSTART;TZID=Asia/Shanghai:20260809T000000
+DTEND;TZID=Asia/Shanghai:20260902T000000
+UID:e8250e6ef4a13ae100df27ed4b255a70@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Delirating
+URL:https://endfield.wiki.gg/wiki/Season_of_Delirating
 END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:HEAT RAGE! MEGA ARENA!
-DTSTART;TZID=Asia/Shanghai:20260730T000000
-DTEND;TZID=Asia/Shanghai:20260813T000000
-UID:f1a30f97f6ca8bbbe732a15abc089b51@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/HEAT_
- RAGE!_MEGA_ARENA!
-URL:https://endfield.wiki.gg/wiki/HEAT_RAGE!_MEGA_ARENA!
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monumental Etching: Beastly Howl
 DTSTART;TZID=Asia/Shanghai:20260806T000000
 DTEND;TZID=Asia/Shanghai:20260820T000000

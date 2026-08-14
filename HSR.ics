@@ -33,12 +33,4 @@ DTEND:20261110T145900Z
 UID:e347b21c28c7a33dac24d9393531a853@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260726T120000Z
-DTEND:20260809T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
 END:VCALENDAR

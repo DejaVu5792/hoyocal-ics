@@ -6,38 +6,20 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260708T020000Z
-DTEND:20260810T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
+SUMMARY:Mutual Aid in Bloom: Into the Frostlands
+DTSTART:20260810T230000Z
+DTEND:20260823T195900Z
+UID:533e9e58e96742c2ce2bddb807e4ee91@hoyo-calendar
+DESCRIPTION:While traveling to Morepesok\, you encounter a self-proclaimed
+  powerhouse. At her enthusiastic invitation\, you join the "Mutual Aid Adv
+ ancement Network" to scout specific zones across the Snezhnayan wilds\, sh
+ aring valuable insights with green but earnest members...\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunny Summer Fontinalia
-DTSTART:20260630T020000Z
-DTEND:20260810T195900Z
-UID:f67b4c66180cd896c1c5861cbdb76f2a@hoyo-calendar
-DESCRIPTION:The Fontinalia Film Festival is here\, and all kinds of wonder
- ful films are being prepared with great excitement! Let's follow the summe
- r breeze back to Fontaine and take a look. Who knows? We might even run in
- to some old friends there!\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ley Line Overflow
-DTSTART:20260802T200000Z
-DTEND:20260809T195900Z
-UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Endless Swarm
-DTSTART:20260630T230000Z
-DTEND:20260811T230000Z
-UID:bc32182d1c525c5e34646eef1570b85f@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Game of Wits
+DTSTART:20260811T230000Z
+DTEND:20260922T230000Z
+UID:cf00b4db12bb7315d6c466bf4b3e1773@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

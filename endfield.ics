@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Monumental Etching: Beastly Howl
-DTSTART;TZID=Asia/Shanghai:20260806T000000
-DTEND;TZID=Asia/Shanghai:20260820T000000
-UID:aa00003e83de3d1a8ff500d890aa12b6@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
- ental_Etching:_Beastly_Howl
-URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Beastly_Howl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bedazzling Dawnstar
 DTSTART;TZID=Asia/Shanghai:20260809T000000
 DTEND;TZID=Asia/Shanghai:20260902T000000
@@ -31,6 +22,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Like_
  a_Star_Streaking_Through_the_Boundaries
 URL:https://endfield.wiki.gg/wiki/Like_a_Star_Streaking_Through_the_Bounda
  ries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rooted Realm
+DTSTART;TZID=Asia/Shanghai:20260809T000000
+DTEND;TZID=Asia/Shanghai:20260902T000000
+UID:f0f9b356a651bc40d49a582ce1541cac@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/The_R
+ ooted_Realm
+URL:https://endfield.wiki.gg/wiki/The_Rooted_Realm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Season of Delirating

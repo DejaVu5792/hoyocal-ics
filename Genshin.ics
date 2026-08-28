@@ -6,6 +6,16 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Great Expeditionist Challenge
+DTSTART:20260828T020000Z
+DTEND:20260913T195900Z
+UID:4d21e4ed95de8f151ae14df63208b9c4@hoyo-calendar
+DESCRIPTION:As veteran adventurers\, you and Paimon decided to take a prop
+ er look around to the Adventurers' Guild Headquarters in Snezhnaya. To you
+ r surprise\, two top-tier peers were already waiting there for you.\nAt th
+ eir invitation\, you participate in a unique tournament...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260819T020000Z
 DTEND:20260921T195900Z

@@ -42,12 +42,12 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
 URL:https://endfield.wiki.gg/wiki/Season_of_Delirating
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Artful Realm of Six Cardinals
-DTSTART;TZID=Asia/Shanghai:20260819T000000
-DTEND;TZID=Asia/Shanghai:20260903T000000
-UID:5071c11d2361c599b396cff8175eb9b4@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Artfu
- l_Realm_of_Six_Cardinals
-URL:https://endfield.wiki.gg/wiki/Artful_Realm_of_Six_Cardinals
+SUMMARY:A Forest Mantled in Snow
+DTSTART;TZID=Asia/Shanghai:20260826T000000
+DTEND;TZID=Asia/Shanghai:20260902T000000
+UID:90f585a7cb730b9e83996ee2e4e58aa4@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_For
+ est_Mantled_in_Snow
+URL:https://endfield.wiki.gg/wiki/A_Forest_Mantled_in_Snow
 END:VEVENT
 END:VCALENDAR

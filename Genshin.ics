@@ -27,6 +27,16 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Tactical Formation
+DTSTART:20260829T020000Z
+DTEND:20260913T195900Z
+UID:ce9ba01d135779984042976c25e8fae9@hoyo-calendar
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
+ that uses special Heated Battle Mode rules.\nRules for this period:\nYou a
+ nd your opponent will use Character Cards selected on the spot and randoml
+ y generated Action Cards to battle.\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Game of Wits
 DTSTART:20260811T230000Z
 DTEND:20260922T230000Z

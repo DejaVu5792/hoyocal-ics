@@ -5,49 +5,39 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Bedazzling Dawnstar
-DTSTART;TZID=Asia/Shanghai:20260809T000000
-DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:69d8d82227dc2df5bcc37e2a02acd4ff@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Bedaz
- zling_Dawnstar
-URL:https://endfield.wiki.gg/wiki/Bedazzling_Dawnstar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Like a Star Streaking Through the Boundaries
-DTSTART;TZID=Asia/Shanghai:20260809T000000
-DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:657cb98758e825cae42d75b0add97a14@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Like_
- a_Star_Streaking_Through_the_Boundaries
-URL:https://endfield.wiki.gg/wiki/Like_a_Star_Streaking_Through_the_Bounda
- ries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rooted Realm
-DTSTART;TZID=Asia/Shanghai:20260809T000000
-DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:f0f9b356a651bc40d49a582ce1541cac@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/The_R
- ooted_Realm
-URL:https://endfield.wiki.gg/wiki/The_Rooted_Realm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Season of Delirating
-DTSTART;TZID=Asia/Shanghai:20260809T000000
-DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:e8250e6ef4a13ae100df27ed4b255a70@endfield-cal
+SUMMARY:Season of Virtuality
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20260924T000000
+UID:610321e3969171a0edf855d118595f0b@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Delirating
-URL:https://endfield.wiki.gg/wiki/Season_of_Delirating
+ n_of_Virtuality
+URL:https://endfield.wiki.gg/wiki/Season_of_Virtuality
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Forest Mantled in Snow
-DTSTART;TZID=Asia/Shanghai:20260826T000000
-DTEND;TZID=Asia/Shanghai:20260902T000000
-UID:90f585a7cb730b9e83996ee2e4e58aa4@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_For
- est_Mantled_in_Snow
-URL:https://endfield.wiki.gg/wiki/A_Forest_Mantled_in_Snow
+SUMMARY:Snow Over Deep Woods
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20261001T000000
+UID:b1ce47561b9f1fe90015d930b361567e@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Snow_
+ Over_Deep_Woods
+URL:https://endfield.wiki.gg/wiki/Snow_Over_Deep_Woods
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIC Support: Chubby Lung Attacks
+DTSTART;TZID=Asia/Shanghai:20260916T000000
+DTEND;TZID=Asia/Shanghai:20261001T000000
+UID:b2c372ea84943f8facf8b2414c7a5c9d@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/AIC_S
+ upport:_Chubby_Lung_Attacks
+URL:https://endfield.wiki.gg/wiki/AIC_Support:_Chubby_Lung_Attacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OrbiPom! MERGE!
+DTSTART;TZID=Asia/Shanghai:20261001T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:027621e149da1862593695012d2aa08f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/OrbiP
+ om!_MERGE!
+URL:https://endfield.wiki.gg/wiki/OrbiPom!_MERGE!
 END:VEVENT
 END:VCALENDAR

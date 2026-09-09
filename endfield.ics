@@ -5,13 +5,31 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Season of Virtuality
+SUMMARY:Dreamscape of Wind and Snow
 DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20260924T000000
-UID:610321e3969171a0edf855d118595f0b@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Virtuality
-URL:https://endfield.wiki.gg/wiki/Season_of_Virtuality
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:18f87ba8b297a6430dc4866cc397ff50@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Dream
+ scape_of_Wind_and_Snow
+URL:https://endfield.wiki.gg/wiki/Dreamscape_of_Wind_and_Snow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fletched Irontip
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20261001T000000
+UID:8f9cfef51736383421a6c75b7bd357dc@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Fletc
+ hed_Irontip
+URL:https://endfield.wiki.gg/wiki/Fletched_Irontip
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Winter Dream Fogged Deep in the Woods
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:cf4eae0bd58cd41f4d1906eb76c0cc6f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_Win
+ ter_Dream_Fogged_Deep_in_the_Woods
+URL:https://endfield.wiki.gg/wiki/A_Winter_Dream_Fogged_Deep_in_the_Woods
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Snow Over Deep Woods
@@ -21,6 +39,24 @@ UID:b1ce47561b9f1fe90015d930b361567e@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Snow_
  Over_Deep_Woods
 URL:https://endfield.wiki.gg/wiki/Snow_Over_Deep_Woods
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Virtuality
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20260925T000000
+UID:610321e3969171a0edf855d118595f0b@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Virtuality
+URL:https://endfield.wiki.gg/wiki/Season_of_Virtuality
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trial of the Bow
+DTSTART;TZID=Asia/Shanghai:20260909T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:23584e6d3d8ba048e4f2861febece02d@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Trial
+ _of_the_Bow
+URL:https://endfield.wiki.gg/wiki/Trial_of_the_Bow
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIC Support: Chubby Lung Attacks

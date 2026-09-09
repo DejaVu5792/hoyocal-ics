@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Trial of the Bastion
+DTSTART:20260907T020000Z
+DTEND:20260916T195900Z
+UID:7dc988132f79785293f77f9e4dbbe72b@hoyo-calendar
+DESCRIPTION:Talalikhin\, an adventurer dedicated to studying dangerous phe
+ nomena\, has devised a new training simulation after compiling intelligenc
+ e from various factions. This simulation is engineered to hone adventurers
+ ' skills in constructing defensive works and holding the line against form
+ idable foes with firearms.\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Great Expeditionist Challenge
 DTSTART:20260828T020000Z
 DTEND:20260913T195900Z

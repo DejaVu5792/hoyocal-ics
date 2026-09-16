@@ -32,15 +32,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_Win
 URL:https://endfield.wiki.gg/wiki/A_Winter_Dream_Fogged_Deep_in_the_Woods
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow Over Deep Woods
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20261001T000000
-UID:b1ce47561b9f1fe90015d930b361567e@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Snow_
- Over_Deep_Woods
-URL:https://endfield.wiki.gg/wiki/Snow_Over_Deep_Woods
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Season of Virtuality
 DTSTART;TZID=Asia/Shanghai:20260902T000000
 DTEND;TZID=Asia/Shanghai:20260925T000000
@@ -48,6 +39,15 @@ UID:610321e3969171a0edf855d118595f0b@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
  n_of_Virtuality
 URL:https://endfield.wiki.gg/wiki/Season_of_Virtuality
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snow Over Deep Woods
+DTSTART;TZID=Asia/Shanghai:20260902T000000
+DTEND;TZID=Asia/Shanghai:20261001T000000
+UID:b1ce47561b9f1fe90015d930b361567e@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Snow_
+ Over_Deep_Woods
+URL:https://endfield.wiki.gg/wiki/Snow_Over_Deep_Woods
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trial of the Bow

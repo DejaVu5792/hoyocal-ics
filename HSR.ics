@@ -6,12 +6,13 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260906T120000Z
-DTEND:20260920T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
+SUMMARY:Minuscule Great Adventure
+DTSTART:20260911T200000Z
+DTEND:20260927T115900Z
+UID:a7c4d500f7a0a80ca4cb96c72a7bb954@hoyo-calendar
+DESCRIPTION:Embark on a minuscule great adventure that packs over half the
+  troubles in the cosmos! Assemble your hero squad\, challenge stage after 
+ stage of trials\, and defeat all the formidable foes in your path.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Overdrive: Whirlwind Grand Prix
@@ -23,20 +24,19 @@ DESCRIPTION:The brand-new racing grand prix in Astropolis will emulate the
  ome the "God of Traffic (Laws)."\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Minuscule Great Adventure
-DTSTART:20260911T200000Z
-DTEND:20260927T115900Z
-UID:a7c4d500f7a0a80ca4cb96c72a7bb954@hoyo-calendar
-DESCRIPTION:Embark on a minuscule great adventure that packs over half the
-  troubles in the cosmos! Assemble your hero squad\, challenge stage after 
- stage of trials\, and defeat all the formidable foes in your path.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Realm of the Strange
 DTSTART:20260918T120000Z
 DTEND:20260927T115900Z
 UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
 DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
   to earn double rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20260906T120000Z
+DTEND:20260920T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 END:VCALENDAR

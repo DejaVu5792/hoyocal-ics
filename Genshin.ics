@@ -17,16 +17,6 @@ DESCRIPTION:Talalikhin\, an adventurer dedicated to studying dangerous phe
  idable foes with firearms.\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Great Expeditionist Challenge
-DTSTART:20260828T020000Z
-DTEND:20260913T195900Z
-UID:4d21e4ed95de8f151ae14df63208b9c4@hoyo-calendar
-DESCRIPTION:As veteran adventurers\, you and Paimon decided to take a prop
- er look around to the Adventurers' Guild Headquarters in Snezhnaya. To you
- r surprise\, two top-tier peers were already waiting there for you.\nAt th
- eir invitation\, you participate in a unique tournament...\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260819T020000Z
 DTEND:20260921T195900Z
@@ -38,14 +28,11 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Tactical Formation
-DTSTART:20260829T020000Z
-DTEND:20260913T195900Z
-UID:ce9ba01d135779984042976c25e8fae9@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nYou a
- nd your opponent will use Character Cards selected on the spot and randoml
- y generated Action Cards to battle.\n\n
+SUMMARY:Ley Line Overflow
+DTSTART:20260913T200000Z
+DTEND:20260920T195900Z
+UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Game of Wits

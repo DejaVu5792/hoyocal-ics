@@ -31,12 +31,4 @@ UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
 DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
   to earn double rewards.\n\n
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20260906T120000Z
-DTEND:20260920T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
 END:VCALENDAR

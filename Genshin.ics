@@ -6,39 +6,24 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Trial of the Bastion
-DTSTART:20260907T020000Z
-DTEND:20260916T195900Z
-UID:7dc988132f79785293f77f9e4dbbe72b@hoyo-calendar
-DESCRIPTION:Talalikhin\, an adventurer dedicated to studying dangerous phe
- nomena\, has devised a new training simulation after compiling intelligenc
- e from various factions. This simulation is engineered to hone adventurers
- ' skills in constructing defensive works and holding the line against form
- idable foes with firearms.\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260819T020000Z
-DTEND:20260921T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ley Line Overflow
-DTSTART:20260913T200000Z
-DTEND:20260920T195900Z
-UID:69eb1de6d7c3b7e732e96a0ab94cba27@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Clever Stratagems
+DTSTART:20260922T230000Z
+DTEND:20261103T230000Z
+UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Game of Wits
-DTSTART:20260811T230000Z
-DTEND:20260922T230000Z
-UID:cf00b4db12bb7315d6c466bf4b3e1773@hoyo-calendar
+SUMMARY:Across the Frozen Wilds\, Honing One's Edge
+DTSTART:20260922T230000Z
+DTEND:20261103T065900Z
+UID:459d649b92dc484a304ed3c2e5e024f7@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tabletop Troupe: A Gathering on Adventure's Eve
+DTSTART:20260922T230000Z
+DTEND:20261103T065900Z
+UID:276036d99893b4798d157ecc454a1f91@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

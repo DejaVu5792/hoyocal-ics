@@ -59,6 +59,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Trial
 URL:https://endfield.wiki.gg/wiki/Trial_of_the_Bow
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sanity Supply
+DTSTART;TZID=Asia/Shanghai:20260916T000000
+DTEND;TZID=Asia/Shanghai:20260924T000000
+UID:2146a9a7569976978bd90b21da4f3ed8@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
+ y_Supply
+URL:https://endfield.wiki.gg/wiki/Sanity_Supply
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIC Support: Chubby Lung Attacks
 DTSTART;TZID=Asia/Shanghai:20260916T000000
 DTEND;TZID=Asia/Shanghai:20261001T000000
@@ -66,6 +75,15 @@ UID:b2c372ea84943f8facf8b2414c7a5c9d@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/AIC_S
  upport:_Chubby_Lung_Attacks
 URL:https://endfield.wiki.gg/wiki/AIC_Support:_Chubby_Lung_Attacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purry Big Feline! RAWR!
+DTSTART;TZID=Asia/Shanghai:20260924T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:861252478a9723d80d30e8c00315377f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Purry
+ _Big_Feline!_RAWR!
+URL:https://endfield.wiki.gg/wiki/Purry_Big_Feline!_RAWR!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OrbiPom! MERGE!

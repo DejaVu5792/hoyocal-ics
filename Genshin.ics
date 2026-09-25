@@ -6,6 +6,15 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Silverwing in Pursuit of the Moon
+DTSTART:20260924T020000Z
+DTEND:20261011T195900Z
+UID:be7e801d3b16041494289e7cac0418b6@hoyo-calendar
+DESCRIPTION:Following an invitation from a friend\, you and Paimon return 
+ to Chenyu Vale. A grand festival is already underway in Yilong Wharf...\n\
+ n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems
 DTSTART:20260922T230000Z
 DTEND:20261103T230000Z

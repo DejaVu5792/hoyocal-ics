@@ -32,15 +32,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_Win
 URL:https://endfield.wiki.gg/wiki/A_Winter_Dream_Fogged_Deep_in_the_Woods
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Season of Virtuality
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20260925T000000
-UID:610321e3969171a0edf855d118595f0b@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Virtuality
-URL:https://endfield.wiki.gg/wiki/Season_of_Virtuality
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Snow Over Deep Woods
 DTSTART;TZID=Asia/Shanghai:20260902T000000
 DTEND;TZID=Asia/Shanghai:20261001T000000
@@ -59,15 +50,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Trial
 URL:https://endfield.wiki.gg/wiki/Trial_of_the_Bow
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sanity Supply
-DTSTART;TZID=Asia/Shanghai:20260916T000000
-DTEND;TZID=Asia/Shanghai:20260924T000000
-UID:2146a9a7569976978bd90b21da4f3ed8@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
- y_Supply
-URL:https://endfield.wiki.gg/wiki/Sanity_Supply
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AIC Support: Chubby Lung Attacks
 DTSTART;TZID=Asia/Shanghai:20260916T000000
 DTEND;TZID=Asia/Shanghai:20261001T000000
@@ -75,6 +57,24 @@ UID:b2c372ea84943f8facf8b2414c7a5c9d@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/AIC_S
  upport:_Chubby_Lung_Attacks
 URL:https://endfield.wiki.gg/wiki/AIC_Support:_Chubby_Lung_Attacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Echoing Bell of an Old City
+DTSTART;TZID=Asia/Shanghai:20260924T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:30795cce970eae418d1f3b367e9f31a0@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Echoi
+ ng_Bell_of_an_Old_City
+URL:https://endfield.wiki.gg/wiki/Echoing_Bell_of_an_Old_City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Illusion
+DTSTART;TZID=Asia/Shanghai:20260924T000000
+DTEND;TZID=Asia/Shanghai:20261016T000000
+UID:0cfed66583b327059f20f36c37647df4@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Illusion
+URL:https://endfield.wiki.gg/wiki/Season_of_Illusion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Purry Big Feline! RAWR!

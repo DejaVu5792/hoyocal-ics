@@ -59,15 +59,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/AIC_S
 URL:https://endfield.wiki.gg/wiki/AIC_Support:_Chubby_Lung_Attacks
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Echoing Bell of an Old City
-DTSTART;TZID=Asia/Shanghai:20260924T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:30795cce970eae418d1f3b367e9f31a0@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Echoi
- ng_Bell_of_an_Old_City
-URL:https://endfield.wiki.gg/wiki/Echoing_Bell_of_an_Old_City
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Season of Illusion
 DTSTART;TZID=Asia/Shanghai:20260924T000000
 DTEND;TZID=Asia/Shanghai:20261016T000000
@@ -86,6 +77,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Purry
 URL:https://endfield.wiki.gg/wiki/Purry_Big_Feline!_RAWR!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Echoing Bell of an Old City
+DTSTART;TZID=Asia/Shanghai:20260924T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:30795cce970eae418d1f3b367e9f31a0@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Echoi
+ ng_Bell_of_an_Old_City
+URL:https://endfield.wiki.gg/wiki/Echoing_Bell_of_an_Old_City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OrbiPom! MERGE!
 DTSTART;TZID=Asia/Shanghai:20261001T000000
 DTEND;TZID=Asia/Shanghai:20261015T000000
@@ -93,5 +93,14 @@ UID:027621e149da1862593695012d2aa08f@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/OrbiP
  om!_MERGE!
 URL:https://endfield.wiki.gg/wiki/OrbiPom!_MERGE!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runners' Steeplechase
+DTSTART;TZID=Asia/Shanghai:20261001T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:4cb48dcb60a5db9160016e881a82304e@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Runne
+ rs%27_Steeplechase
+URL:https://endfield.wiki.gg/wiki/Runners%27_Steeplechase
 END:VEVENT
 END:VCALENDAR

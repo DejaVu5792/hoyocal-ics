@@ -6,29 +6,50 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Minuscule Great Adventure
-DTSTART:20260911T200000Z
-DTEND:20260927T115900Z
-UID:a7c4d500f7a0a80ca4cb96c72a7bb954@hoyo-calendar
-DESCRIPTION:Embark on a minuscule great adventure that packs over half the
-  troubles in the cosmos! Assemble your hero squad\, challenge stage after 
- stage of trials\, and defeat all the formidable foes in your path.\n\n
+SUMMARY:Wishpower UP! Down with Voracity!
+DTSTART:20260927T150000Z
+DTEND:20261110T140000Z
+UID:744771009d1fa1f247735c3feca77da4@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Overdrive: Whirlwind Grand Prix
-DTSTART:20260823T120000Z
-DTEND:20260927T115900Z
-UID:bc13fec037e4cbef00d12e4546c37800@hoyo-calendar
-DESCRIPTION:The brand-new racing grand prix in Astropolis will emulate the
-  "Phantasmoon Games." The sole winning team will ascend to godhood and bec
- ome the "God of Traffic (Laws)."\n\n
+SUMMARY:Love\, Ghosts & Robots
+DTSTART:20260924T120000Z
+DTEND:20261110T115900Z
+UID:09ece33a650c618574d8ad6268100991@hoyo-calendar
+DESCRIPTION:A decommissioned mechatron pipeline\, retrofitted by ghost Sko
+ tt\, has somehow become a production line for "Lyndon™ EmbodiMech\," cap
+ able of giving ghosts physical form! But the one time this old friend deci
+ des to do something good\, he gets tangled up with the out-of-nowhere arri
+ val of Rakshmi. You and your companions decide to lend a hand\, help him p
+ ass the assessment\, and get him out from under his "rumored girlfriend's"
+  thumb!\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Realm of the Strange
-DTSTART:20260918T120000Z
-DTEND:20260927T115900Z
-UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
-  to earn double rewards.\n\n
+SUMMARY:Astral Imagea Park
+DTSTART:20260924T120000Z
+DTEND:20261110T140000Z
+UID:42d237a07fbe90e4f24e04dbb78719fa@hoyo-calendar
+DESCRIPTION:An offline arcadia meticulously built by the IPC for its newes
+ t mystery box product\, "Astral Imagea." Here\, you can freely explore all
+  the surprises they have to offer.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20261011T120000Z
+DTEND:20261024T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interastral Peace Gala: One Take
+DTSTART:20261020T200000Z
+DTEND:20261110T115900Z
+UID:17fe326d1a62cf87c877aaefc4a150ab@hoyo-calendar
+DESCRIPTION:Interastral Peace Entertainment's blockbuster reality show\, <
+ i>Interastral Peace Gala: One Take</i>\, has officially started filming. A
+ udition now\, show off your combat skills\, and the next action superstar 
+ could be you!\n\n
 END:VEVENT
 END:VCALENDAR

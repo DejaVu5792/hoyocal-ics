@@ -14,15 +14,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Dream
 URL:https://endfield.wiki.gg/wiki/Dreamscape_of_Wind_and_Snow
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fletched Irontip
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20261001T000000
-UID:8f9cfef51736383421a6c75b7bd357dc@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Fletc
- hed_Irontip
-URL:https://endfield.wiki.gg/wiki/Fletched_Irontip
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Winter Dream Fogged Deep in the Woods
 DTSTART;TZID=Asia/Shanghai:20260902T000000
 DTEND;TZID=Asia/Shanghai:20261015T000000
@@ -32,15 +23,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_Win
 URL:https://endfield.wiki.gg/wiki/A_Winter_Dream_Fogged_Deep_in_the_Woods
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow Over Deep Woods
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20261001T000000
-UID:b1ce47561b9f1fe90015d930b361567e@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Snow_
- Over_Deep_Woods
-URL:https://endfield.wiki.gg/wiki/Snow_Over_Deep_Woods
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trial of the Bow
 DTSTART;TZID=Asia/Shanghai:20260909T000000
 DTEND;TZID=Asia/Shanghai:20261015T000000
@@ -48,15 +30,6 @@ UID:23584e6d3d8ba048e4f2861febece02d@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Trial
  _of_the_Bow
 URL:https://endfield.wiki.gg/wiki/Trial_of_the_Bow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIC Support: Chubby Lung Attacks
-DTSTART;TZID=Asia/Shanghai:20260916T000000
-DTEND;TZID=Asia/Shanghai:20261001T000000
-UID:b2c372ea84943f8facf8b2414c7a5c9d@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/AIC_S
- upport:_Chubby_Lung_Attacks
-URL:https://endfield.wiki.gg/wiki/AIC_Support:_Chubby_Lung_Attacks
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Season of Illusion

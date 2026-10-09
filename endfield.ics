@@ -59,13 +59,13 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Echoi
 URL:https://endfield.wiki.gg/wiki/Echoing_Bell_of_an_Old_City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OrbiPom! MERGE!
+SUMMARY:Ridgeline Flows of Autumn
 DTSTART;TZID=Asia/Shanghai:20261001T000000
 DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:027621e149da1862593695012d2aa08f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/OrbiP
- om!_MERGE!
-URL:https://endfield.wiki.gg/wiki/OrbiPom!_MERGE!
+UID:30ae196155f2262c4822f311161b0dd9@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Ridge
+ line_Flows_of_Autumn
+URL:https://endfield.wiki.gg/wiki/Ridgeline_Flows_of_Autumn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Runners' Steeplechase
@@ -75,5 +75,23 @@ UID:4cb48dcb60a5db9160016e881a82304e@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Runne
  rs%27_Steeplechase
 URL:https://endfield.wiki.gg/wiki/Runners%27_Steeplechase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OrbiPom! MERGE!
+DTSTART;TZID=Asia/Shanghai:20261001T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:027621e149da1862593695012d2aa08f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/OrbiP
+ om!_MERGE!
+URL:https://endfield.wiki.gg/wiki/OrbiPom!_MERGE!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monumental Etching: Shadow Marked
+DTSTART;TZID=Asia/Shanghai:20261005T000000
+DTEND;TZID=Asia/Shanghai:20261019T000000
+UID:a77f4e399a6c9d60eddc738a0d9f6495@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
+ ental_Etching:_Shadow_Marked
+URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Shadow_Marked
 END:VEVENT
 END:VCALENDAR

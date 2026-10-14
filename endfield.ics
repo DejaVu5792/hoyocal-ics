@@ -94,4 +94,85 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Shadow_Marked
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Shadow_Marked
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sanity Supply
+DTSTART;TZID=Asia/Shanghai:20261007T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:cc3a21b7627c0ead8313adce242e85f9@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
+ y_Supply
+URL:https://endfield.wiki.gg/wiki/Sanity_Supply
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inkwashed World
+DTSTART;TZID=Asia/Shanghai:20261008T000000
+DTEND;TZID=Asia/Shanghai:20261015T000000
+UID:8ea3c74c470ed47917697a93505903ba@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Inkwa
+ shed_World
+URL:https://endfield.wiki.gg/wiki/Inkwashed_World
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All the Inky Hues
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:924f69635d96c253a5c2294f4fbb94f2@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
+ he_Inky_Hues
+URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yuanyuan's Blazing Stoves
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261126T000000
+UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
+ uan%27s_Blazing_Stoves
+URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monumental Etching: Forest of Maras
+DTSTART;TZID=Asia/Shanghai:20261022T000000
+DTEND;TZID=Asia/Shanghai:20261105T000000
+UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
+ ental_Etching:_Forest_of_Maras
+URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carly's Verdant Anthology
+DTSTART;TZID=Asia/Shanghai:20261022T000000
+DTEND;TZID=Asia/Shanghai:20261105T000000
+UID:2d2cb9a11f2f5d6dc738bd0daefc59be@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
+ %27s_Verdant_Anthology
+URL:https://endfield.wiki.gg/wiki/Carly%27s_Verdant_Anthology
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arena of Games
+DTSTART;TZID=Asia/Shanghai:20261029T000000
+DTEND;TZID=Asia/Shanghai:20261119T000000
+UID:79ebc0c19dc84cce02beda9649bb54f7@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Arena
+ _of_Games
+URL:https://endfield.wiki.gg/wiki/Arena_of_Games
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Era for the Myriad Souls
+DTSTART;TZID=Asia/Shanghai:20261031T000000
+DTEND;TZID=Asia/Shanghai:20261114T000000
+UID:b04fbd6d68fd1b626aeb6f854388286c@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/New_E
+ ra_for_the_Myriad_Souls
+URL:https://endfield.wiki.gg/wiki/New_Era_for_the_Myriad_Souls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to the Rustics
+DTSTART;TZID=Asia/Shanghai:20261105T000000
+DTEND;TZID=Asia/Shanghai:20261126T000000
+UID:0ed0a093f005f25ac83b9ebc3325f41d@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Back_
+ to_the_Rustics
+URL:https://endfield.wiki.gg/wiki/Back_to_the_Rustics
+END:VEVENT
 END:VCALENDAR

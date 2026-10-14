@@ -6,6 +6,16 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Predictive Victory Dynamics
+DTSTART:20261012T020000Z
+DTEND:20261023T015900Z
+UID:f80634348276fdf28aa17b935196abac@hoyo-calendar
+DESCRIPTION:In the territory of Natlan's Children of Echoes\, the Interact
+ ive Woven Scroll expert Vigee\, elite warrior Liliuo\, and Fatui operative
+  Wislawa are using a Combat Simulator to simulate battles\, hoping to deve
+ lop a model for calculating one's odds of victory...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20260930T020000Z
 DTEND:20261102T195900Z
@@ -17,13 +27,14 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Silverwing in Pursuit of the Moon
-DTSTART:20260924T020000Z
-DTEND:20261011T195900Z
-UID:be7e801d3b16041494289e7cac0418b6@hoyo-calendar
-DESCRIPTION:Following an invitation from a friend\, you and Paimon return 
- to Chenyu Vale. A grand festival is already underway in Yilong Wharf...\n\
- n
+SUMMARY:Heated Battle Mode: Automatic Artistry
+DTSTART:20261010T020000Z
+DTEND:20261025T195900Z
+UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
+ that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
+ t characters specially dedicated to this mode to build a team and enhance 
+ them. Characters will automatically battle!\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems

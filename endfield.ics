@@ -5,87 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Dreamscape of Wind and Snow
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:18f87ba8b297a6430dc4866cc397ff50@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Dream
- scape_of_Wind_and_Snow
-URL:https://endfield.wiki.gg/wiki/Dreamscape_of_Wind_and_Snow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Winter Dream Fogged Deep in the Woods
-DTSTART;TZID=Asia/Shanghai:20260902T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:cf4eae0bd58cd41f4d1906eb76c0cc6f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/A_Win
- ter_Dream_Fogged_Deep_in_the_Woods
-URL:https://endfield.wiki.gg/wiki/A_Winter_Dream_Fogged_Deep_in_the_Woods
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trial of the Bow
-DTSTART;TZID=Asia/Shanghai:20260909T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:23584e6d3d8ba048e4f2861febece02d@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Trial
- _of_the_Bow
-URL:https://endfield.wiki.gg/wiki/Trial_of_the_Bow
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Season of Illusion
-DTSTART;TZID=Asia/Shanghai:20260924T000000
-DTEND;TZID=Asia/Shanghai:20261016T000000
-UID:0cfed66583b327059f20f36c37647df4@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Illusion
-URL:https://endfield.wiki.gg/wiki/Season_of_Illusion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Purry Big Feline! RAWR!
-DTSTART;TZID=Asia/Shanghai:20260924T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:861252478a9723d80d30e8c00315377f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Purry
- _Big_Feline!_RAWR!
-URL:https://endfield.wiki.gg/wiki/Purry_Big_Feline!_RAWR!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Echoing Bell of an Old City
-DTSTART;TZID=Asia/Shanghai:20260924T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:30795cce970eae418d1f3b367e9f31a0@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Echoi
- ng_Bell_of_an_Old_City
-URL:https://endfield.wiki.gg/wiki/Echoing_Bell_of_an_Old_City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ridgeline Flows of Autumn
-DTSTART;TZID=Asia/Shanghai:20261001T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:30ae196155f2262c4822f311161b0dd9@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Ridge
- line_Flows_of_Autumn
-URL:https://endfield.wiki.gg/wiki/Ridgeline_Flows_of_Autumn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runners' Steeplechase
-DTSTART;TZID=Asia/Shanghai:20261001T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:4cb48dcb60a5db9160016e881a82304e@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Runne
- rs%27_Steeplechase
-URL:https://endfield.wiki.gg/wiki/Runners%27_Steeplechase
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OrbiPom! MERGE!
-DTSTART;TZID=Asia/Shanghai:20261001T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:027621e149da1862593695012d2aa08f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/OrbiP
- om!_MERGE!
-URL:https://endfield.wiki.gg/wiki/OrbiPom!_MERGE!
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monumental Etching: Shadow Marked
 DTSTART;TZID=Asia/Shanghai:20261005T000000
 DTEND;TZID=Asia/Shanghai:20261019T000000
@@ -95,22 +14,31 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Shadow_Marked
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sanity Supply
-DTSTART;TZID=Asia/Shanghai:20261007T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:cc3a21b7627c0ead8313adce242e85f9@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanit
- y_Supply
-URL:https://endfield.wiki.gg/wiki/Sanity_Supply
+SUMMARY:Sanctuary of Ink
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261125T000000
+UID:0e0ab9392f8b989844b2a158435fc6ea@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanct
+ uary_of_Ink
+URL:https://endfield.wiki.gg/wiki/Sanctuary_of_Ink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inkwashed World
-DTSTART;TZID=Asia/Shanghai:20261008T000000
-DTEND;TZID=Asia/Shanghai:20261015T000000
-UID:8ea3c74c470ed47917697a93505903ba@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Inkwa
- shed_World
-URL:https://endfield.wiki.gg/wiki/Inkwashed_World
+SUMMARY:Spirit's Restoration
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:3702ac6cf685f77f90c10c02bf2654a2@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spiri
+ t%27s_Restoration
+URL:https://endfield.wiki.gg/wiki/Spirit%27s_Restoration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yuanyuan's Blazing Stoves
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261126T000000
+UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
+ uan%27s_Blazing_Stoves
+URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All the Inky Hues
@@ -122,13 +50,13 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
 URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yuanyuan's Blazing Stoves
+SUMMARY:Season of Phantasia
 DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261126T000000
-UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
- uan%27s_Blazing_Stoves
-URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Phantasia
+URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monumental Etching: Forest of Maras
@@ -167,6 +95,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/New_E
 URL:https://endfield.wiki.gg/wiki/New_Era_for_the_Myriad_Souls
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Stars Are With Me
+DTSTART;TZID=Asia/Shanghai:20261105T000000
+DTEND;TZID=Asia/Shanghai:20261126T000000
+UID:969279a8dfb7921b2db5b7ea31969932@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/The_S
+ tars_Are_With_Me
+URL:https://endfield.wiki.gg/wiki/The_Stars_Are_With_Me
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Back to the Rustics
 DTSTART;TZID=Asia/Shanghai:20261105T000000
 DTEND;TZID=Asia/Shanghai:20261126T000000
@@ -174,5 +111,14 @@ UID:0ed0a093f005f25ac83b9ebc3325f41d@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Back_
  to_the_Rustics
 URL:https://endfield.wiki.gg/wiki/Back_to_the_Rustics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Fervor
+DTSTART;TZID=Asia/Shanghai:20261105T000000
+DTEND;TZID=Asia/Shanghai:20261127T000000
+UID:f0394bf1080c3a6c5c4b066a44a8ea38@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Fervor
+URL:https://endfield.wiki.gg/wiki/Season_of_Fervor
 END:VEVENT
 END:VCALENDAR

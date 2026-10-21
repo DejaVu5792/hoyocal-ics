@@ -6,14 +6,13 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Predictive Victory Dynamics
-DTSTART:20261012T020000Z
-DTEND:20261023T015900Z
-UID:f80634348276fdf28aa17b935196abac@hoyo-calendar
-DESCRIPTION:In the territory of Natlan's Children of Echoes\, the Interact
- ive Woven Scroll expert Vigee\, elite warrior Liliuo\, and Fatui operative
-  Wislawa are using a Combat Simulator to simulate battles\, hoping to deve
- lop a model for calculating one's odds of victory...\n\n
+SUMMARY:Carefree Snowball Fight
+DTSTART:20261021T020000Z
+DTEND:20261101T195900Z
+UID:400b645dbe09e52ca16e5d0e809e241e@hoyo-calendar
+DESCRIPTION:While passing through the snowfields southwest of Morepesok\, 
+ you come across a group of children happily having a snowball fight\, led 
+ by a Frost Operative\, and decide to join in...\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
@@ -42,6 +41,16 @@ DTSTART:20260922T230000Z
 DTEND:20261103T230000Z
 UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
 DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Predictive Victory Dynamics
+DTSTART:20261012T020000Z
+DTEND:20261023T015900Z
+UID:f80634348276fdf28aa17b935196abac@hoyo-calendar
+DESCRIPTION:In the territory of Natlan's Children of Echoes\, the Interact
+ ive Woven Scroll expert Vigee\, elite warrior Liliuo\, and Fatui operative
+  Wislawa are using a Combat Simulator to simulate battles\, hoping to deve
+ lop a model for calculating one's odds of victory...\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Across the Frozen Wilds\, Honing One's Edge

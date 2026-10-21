@@ -13,14 +13,6 @@ UID:744771009d1fa1f247735c3feca77da4@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20261011T120000Z
-DTEND:20261024T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Love\, Ghosts & Robots
 DTSTART:20260924T120000Z
 DTEND:20261110T115900Z
@@ -51,5 +43,13 @@ DESCRIPTION:Interastral Peace Entertainment's blockbuster reality show\, <
  i>Interastral Peace Gala: One Take</i>\, has officially started filming. A
  udition now\, show off your combat skills\, and the next action superstar 
  could be you!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20261011T120000Z
+DTEND:20261024T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 END:VCALENDAR

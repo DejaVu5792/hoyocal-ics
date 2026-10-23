@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Monumental Etching: Shadow Marked
-DTSTART;TZID=Asia/Shanghai:20261005T000000
-DTEND;TZID=Asia/Shanghai:20261019T000000
-UID:a77f4e399a6c9d60eddc738a0d9f6495@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
- ental_Etching:_Shadow_Marked
-URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Shadow_Marked
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sanctuary of Ink
 DTSTART;TZID=Asia/Shanghai:20261015T000000
 DTEND;TZID=Asia/Shanghai:20261125T000000
@@ -30,6 +21,15 @@ UID:3702ac6cf685f77f90c10c02bf2654a2@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spiri
  t%27s_Restoration
 URL:https://endfield.wiki.gg/wiki/Spirit%27s_Restoration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Phantasia
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Phantasia
+URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yuanyuan's Blazing Stoves
@@ -50,13 +50,13 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
 URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Season of Phantasia
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Phantasia
-URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
+SUMMARY:Carly's Verdant Anthology
+DTSTART;TZID=Asia/Shanghai:20261022T000000
+DTEND;TZID=Asia/Shanghai:20261105T000000
+UID:2d2cb9a11f2f5d6dc738bd0daefc59be@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
+ %27s_Verdant_Anthology
+URL:https://endfield.wiki.gg/wiki/Carly%27s_Verdant_Anthology
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monumental Etching: Forest of Maras
@@ -66,15 +66,6 @@ UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Forest_of_Maras
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carly's Verdant Anthology
-DTSTART;TZID=Asia/Shanghai:20261022T000000
-DTEND;TZID=Asia/Shanghai:20261105T000000
-UID:2d2cb9a11f2f5d6dc738bd0daefc59be@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
- %27s_Verdant_Anthology
-URL:https://endfield.wiki.gg/wiki/Carly%27s_Verdant_Anthology
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arena of Games

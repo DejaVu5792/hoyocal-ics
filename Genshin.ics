@@ -26,14 +26,11 @@ DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this
  \n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heated Battle Mode: Automatic Artistry
-DTSTART:20261010T020000Z
-DTEND:20261025T195900Z
-UID:cbedbdb8a36ea7c5f373efdbddaecbf5@hoyo-calendar
-DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
- that uses special Heated Battle Mode rules.\nRules for this period:\nSelec
- t characters specially dedicated to this mode to build a team and enhance 
- them. Characters will automatically battle!\n\n
+SUMMARY:Overflowing Favor
+DTSTART:20261025T200000Z
+DTEND:20261101T195900Z
+UID:198807596eeb5c73650a98a9edf3ce8f@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Clever Stratagems
@@ -41,16 +38,6 @@ DTSTART:20260922T230000Z
 DTEND:20261103T230000Z
 UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
 DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Predictive Victory Dynamics
-DTSTART:20261012T020000Z
-DTEND:20261023T015900Z
-UID:f80634348276fdf28aa17b935196abac@hoyo-calendar
-DESCRIPTION:In the territory of Natlan's Children of Echoes\, the Interact
- ive Woven Scroll expert Vigee\, elite warrior Liliuo\, and Fatui operative
-  Wislawa are using a Combat Simulator to simulate battles\, hoping to deve
- lop a model for calculating one's odds of victory...\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Across the Frozen Wilds\, Honing One's Edge

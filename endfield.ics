@@ -23,15 +23,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spiri
 URL:https://endfield.wiki.gg/wiki/Spirit%27s_Restoration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Season of Phantasia
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Phantasia
-URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yuanyuan's Blazing Stoves
 DTSTART;TZID=Asia/Shanghai:20261015T000000
 DTEND;TZID=Asia/Shanghai:20261126T000000
@@ -39,6 +30,15 @@ UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
  uan%27s_Blazing_Stoves
 URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Phantasia
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Phantasia
+URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All the Inky Hues

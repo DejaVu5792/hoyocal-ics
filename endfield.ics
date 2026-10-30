@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yuanyuan's Blazing Stoves
 DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261126T000000
+DTEND;TZID=Asia/Shanghai:20261125T000000
 UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
  uan%27s_Blazing_Stoves
@@ -66,6 +66,15 @@ UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
  ental_Etching:_Forest_of_Maras
 URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contingency Readiness
+DTSTART;TZID=Asia/Shanghai:20261028T000000
+DTEND;TZID=Asia/Shanghai:20261105T000000
+UID:1f861cdb03d97579de5cb222ac66d576@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Conti
+ ngency_Readiness
+URL:https://endfield.wiki.gg/wiki/Contingency_Readiness
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arena of Games

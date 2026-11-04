@@ -6,51 +6,21 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
-SUMMARY:Carefree Snowball Fight
-DTSTART:20261021T020000Z
-DTEND:20261101T195900Z
-UID:400b645dbe09e52ca16e5d0e809e241e@hoyo-calendar
-DESCRIPTION:While passing through the snowfields southwest of Morepesok\, 
- you come across a group of children happily having a snowball fight\, led 
- by a Frost Operative\, and decide to join in...\n\n
+SUMMARY:The Grand Defense: Defy the Unjust Judgment
+DTSTART:20261103T230000Z
+DTEND:20261215T230000Z
+UID:ca93a1f70176bbb8d7afbc4ec9acec13@hoyo-calendar
+DESCRIPTION:The Nail of Retribution has descended\, and the Holy Soil phen
+ omenon is spreading across Teyvat\, throwing one region after another into
+  crisis.\nThe seven nations are now joining forces\, mobilizing every reso
+ urce at their disposal to push back the disasters erupting on all fronts..
+ .\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stygian Onslaught
-DTSTART:20260930T020000Z
-DTEND:20261102T195900Z
-UID:18a4565295a463b625972f451b156729@hoyo-calendar
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this 
- time in Liyue's Sal Terrae. You must breach the depths of this unpredictab
- le Domain\, for only by defeating powerful foes can the turmoil be quelled
- ... Of course\, where danger awaits\, so too do extraordinary treasures...
- \n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Overflowing Favor
-DTSTART:20261025T200000Z
-DTEND:20261101T195900Z
-UID:198807596eeb5c73650a98a9edf3ce8f@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forge Realm's Temper: Clever Stratagems
-DTSTART:20260922T230000Z
-DTEND:20261103T230000Z
-UID:8bbb52d52c610ccacc8120c2d5576871@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Across the Frozen Wilds\, Honing One's Edge
-DTSTART:20260922T230000Z
-DTEND:20261103T065900Z
-UID:459d649b92dc484a304ed3c2e5e024f7@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tabletop Troupe: A Gathering on Adventure's Eve
-DTSTART:20260922T230000Z
-DTEND:20261103T065900Z
-UID:276036d99893b4798d157ecc454a1f91@hoyo-calendar
+SUMMARY:The Forge Realm's Temper: Endless Swarm
+DTSTART:20261103T230000Z
+DTEND:20261215T230000Z
+UID:bc32182d1c525c5e34646eef1570b85f@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 END:VCALENDAR

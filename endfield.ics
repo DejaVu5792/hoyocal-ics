@@ -23,6 +23,15 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spiri
 URL:https://endfield.wiki.gg/wiki/Spirit%27s_Restoration
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All the Inky Hues
+DTSTART;TZID=Asia/Shanghai:20261015T000000
+DTEND;TZID=Asia/Shanghai:20261106T000000
+UID:924f69635d96c253a5c2294f4fbb94f2@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
+ he_Inky_Hues
+URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yuanyuan's Blazing Stoves
 DTSTART;TZID=Asia/Shanghai:20261015T000000
 DTEND;TZID=Asia/Shanghai:20261125T000000
@@ -41,13 +50,13 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
 URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All the Inky Hues
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:924f69635d96c253a5c2294f4fbb94f2@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
- he_Inky_Hues
-URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
+SUMMARY:Monumental Etching: Forest of Maras
+DTSTART;TZID=Asia/Shanghai:20261022T000000
+DTEND;TZID=Asia/Shanghai:20261105T000000
+UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
+ ental_Etching:_Forest_of_Maras
+URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carly's Verdant Anthology
@@ -57,15 +66,6 @@ UID:2d2cb9a11f2f5d6dc738bd0daefc59be@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
  %27s_Verdant_Anthology
 URL:https://endfield.wiki.gg/wiki/Carly%27s_Verdant_Anthology
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monumental Etching: Forest of Maras
-DTSTART;TZID=Asia/Shanghai:20261022T000000
-DTEND;TZID=Asia/Shanghai:20261105T000000
-UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
- ental_Etching:_Forest_of_Maras
-URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Contingency Readiness

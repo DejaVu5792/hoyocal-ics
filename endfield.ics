@@ -14,24 +14,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanct
 URL:https://endfield.wiki.gg/wiki/Sanctuary_of_Ink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spirit's Restoration
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:3702ac6cf685f77f90c10c02bf2654a2@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Spiri
- t%27s_Restoration
-URL:https://endfield.wiki.gg/wiki/Spirit%27s_Restoration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All the Inky Hues
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:924f69635d96c253a5c2294f4fbb94f2@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/All_t
- he_Inky_Hues
-URL:https://endfield.wiki.gg/wiki/All_the_Inky_Hues
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yuanyuan's Blazing Stoves
 DTSTART;TZID=Asia/Shanghai:20261015T000000
 DTEND;TZID=Asia/Shanghai:20261125T000000
@@ -39,42 +21,6 @@ UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
  uan%27s_Blazing_Stoves
 URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Season of Phantasia
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261106T000000
-UID:a0c0a1a88101c1c9379d629e76a41c3f@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Phantasia
-URL:https://endfield.wiki.gg/wiki/Season_of_Phantasia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monumental Etching: Forest of Maras
-DTSTART;TZID=Asia/Shanghai:20261022T000000
-DTEND;TZID=Asia/Shanghai:20261105T000000
-UID:08ab129e6e31d8bb64cb57d0c08091b7@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Monum
- ental_Etching:_Forest_of_Maras
-URL:https://endfield.wiki.gg/wiki/Monumental_Etching:_Forest_of_Maras
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carly's Verdant Anthology
-DTSTART;TZID=Asia/Shanghai:20261022T000000
-DTEND;TZID=Asia/Shanghai:20261105T000000
-UID:2d2cb9a11f2f5d6dc738bd0daefc59be@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Carly
- %27s_Verdant_Anthology
-URL:https://endfield.wiki.gg/wiki/Carly%27s_Verdant_Anthology
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contingency Readiness
-DTSTART;TZID=Asia/Shanghai:20261028T000000
-DTEND;TZID=Asia/Shanghai:20261105T000000
-UID:1f861cdb03d97579de5cb222ac66d576@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Conti
- ngency_Readiness
-URL:https://endfield.wiki.gg/wiki/Contingency_Readiness
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arena of Games
@@ -120,5 +66,15 @@ UID:f0394bf1080c3a6c5c4b066a44a8ea38@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
  n_of_Fervor
 URL:https://endfield.wiki.gg/wiki/Season_of_Fervor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contingency Contract: Indigo Experimental Operation
+DTSTART;TZID=Asia/Shanghai:20261105T000000
+DTEND;TZID=Asia/Shanghai:20261126T000000
+UID:8f2458ce5841cf4c53f9c0fa0788b970@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Conti
+ ngency_Contract:_Indigo_Experimental_Operation
+URL:https://endfield.wiki.gg/wiki/Contingency_Contract:_Indigo_Experimenta
+ l_Operation
 END:VEVENT
 END:VCALENDAR

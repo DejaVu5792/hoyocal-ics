@@ -6,42 +6,74 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Wishpower UP! Down with Voracity!
-DTSTART:20260927T150000Z
-DTEND:20261110T140000Z
-UID:744771009d1fa1f247735c3feca77da4@hoyo-calendar
+SUMMARY:Aha Reckons You Need This
+DTSTART:20261110T150000Z
+DTEND:20261222T135900Z
+UID:e213dbeca598b7e93645ffbd7894a481@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interastral Peace Gala: One Take
-DTSTART:20261020T200000Z
-DTEND:20261110T115900Z
-UID:17fe326d1a62cf87c877aaefc4a150ab@hoyo-calendar
-DESCRIPTION:Interastral Peace Entertainment's blockbuster reality show\, <
- i>Interastral Peace Gala: One Take</i>\, has officially started filming. A
- udition now\, show off your combat skills\, and the next action superstar 
- could be you!\n\n
+SUMMARY:Magic Invitation
+DTSTART:20261110T150000Z
+DTEND:20261222T135900Z
+UID:2ea82dcee81b889201157970aee300ec@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Love\, Ghosts & Robots
-DTSTART:20260924T120000Z
-DTEND:20261110T115900Z
-UID:09ece33a650c618574d8ad6268100991@hoyo-calendar
-DESCRIPTION:A decommissioned mechatron pipeline\, retrofitted by ghost Sko
- tt\, has somehow become a production line for "Lyndon™ EmbodiMech\," cap
- able of giving ghosts physical form! But the one time this old friend deci
- des to do something good\, he gets tangled up with the out-of-nowhere arri
- val of Rakshmi. You and your companions decide to lend a hand\, help him p
- ass the assessment\, and get him out from under his "rumored girlfriend's"
-  thumb!\n\n
+SUMMARY:Affinitive Starveil
+DTSTART:20261110T150000Z
+DTEND:20261222T135900Z
+UID:0ddcf260b76c2a9cad98406a5e9ec1f0@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Astral Imagea Park
-DTSTART:20260924T120000Z
-DTEND:20261110T140000Z
-UID:42d237a07fbe90e4f24e04dbb78719fa@hoyo-calendar
-DESCRIPTION:An offline arcadia meticulously built by the IPC for its newes
- t mystery box product\, "Astral Imagea." Here\, you can freely explore all
-  the surprises they have to offer.\n\n
+SUMMARY:The Fluffy Movie: Overheated
+DTSTART:20261108T120000Z
+DTEND:20261222T115900Z
+UID:2c56678beb023cd99303add3144f3d33@hoyo-calendar
+DESCRIPTION:Finish <i>Fluffy Across the Blue</i> with an unsatisfactory en
+ ding? Sorry\, but the greatest and most responsible comic artist\, Blurry_
+ QR_Colt\, could never do such a thing. In fact\, she's even going to draw 
+ a gourmet theatrical version! She has left behind an inheritance waiting t
+ o be claimed. To get your hands on it\, you'll have to first finish this m
+ asterpiece. However\, "drawing" comics isn't as simple as you think...\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interastral Peace Gala: Road to Fame
+DTSTART:20261110T150000Z
+DTEND:20261222T115900Z
+UID:12755d138813319d7ce55a1dfb8e7004@hoyo-calendar
+DESCRIPTION:Want to become the star of the show? Step onto the stage\, tak
+ e down your rivals\, and win cheers and applause with your brilliance!\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Relic Recon
+DTSTART:20261108T120000Z
+DTEND:20261222T115900Z
+UID:7c2e57064a585a1dc2924fd19bf39f24@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stellar Companions
+DTSTART:20261110T150000Z
+DTEND:20261222T140000Z
+UID:9ed96523bc0c32c1540694a0755e14df@hoyo-calendar
+DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20261122T120000Z
+DTEND:20261206T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Realm of the Strange
+DTSTART:20261210T120000Z
+DTEND:20261222T115900Z
+UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
+  to earn double rewards.\n\n
 END:VEVENT
 END:VCALENDAR

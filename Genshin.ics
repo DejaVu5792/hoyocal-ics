@@ -6,6 +6,15 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Stress Block Smashing Project
+DTSTART:20261120T020000Z
+DTEND:20261129T195900Z
+UID:d3a5f3c4b6e700cc083084d3e67ef39b@hoyo-calendar
+DESCRIPTION:Two yumekui-baku employees of the Aisa Bathhouse have arrived 
+ at the Easybreeze Holiday Resort to operate a special game. Come join the 
+ playtesters and "crush your stress" to your heart's content!\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stygian Onslaught
 DTSTART:20261111T020000Z
 DTEND:20261214T195900Z

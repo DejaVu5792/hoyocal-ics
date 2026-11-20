@@ -23,15 +23,6 @@ DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
 URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arena of Games
-DTSTART;TZID=Asia/Shanghai:20261029T000000
-DTEND;TZID=Asia/Shanghai:20261119T000000
-UID:79ebc0c19dc84cce02beda9649bb54f7@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Arena
- _of_Games
-URL:https://endfield.wiki.gg/wiki/Arena_of_Games
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Stars Are With Me
 DTSTART;TZID=Asia/Shanghai:20261105T000000
 DTEND;TZID=Asia/Shanghai:20261126T000000

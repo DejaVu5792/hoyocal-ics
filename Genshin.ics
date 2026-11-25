@@ -37,6 +37,16 @@ DESCRIPTION:The Nail of Retribution has descended\, and the Holy Soil phen
  .\n\n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Heated Battle Mode: Sprinting Stratagems
+DTSTART:20261121T020000Z
+DTEND:20261206T195900Z
+UID:21e5c13404105741e47214335648c3b5@hoyo-calendar
+DESCRIPTION:In The Cat's Tail\, there will be a regularly scheduled event 
+ that uses special Heated Battle Mode rules.\nRules for this period:\nYou a
+ nd your opponent will use Character Cards selected on the spot and randoml
+ y generated Action Cards to battle.\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forge Realm's Temper: Endless Swarm
 DTSTART:20261103T230000Z
 DTEND:20261215T230000Z

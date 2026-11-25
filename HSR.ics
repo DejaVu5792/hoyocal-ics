@@ -6,13 +6,6 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Honkai Star Rail
 X-WR-CALNAME:Honkai Star Rail Events
 BEGIN:VEVENT
-SUMMARY:Aha Reckons You Need This
-DTSTART:20261110T150000Z
-DTEND:20261222T135900Z
-UID:e213dbeca598b7e93645ffbd7894a481@hoyo-calendar
-DESCRIPTION:\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Fluffy Movie: Overheated
 DTSTART:20261108T120000Z
 DTEND:20261222T115900Z
@@ -40,20 +33,19 @@ UID:7c2e57064a585a1dc2924fd19bf39f24@hoyo-calendar
 DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Planar Fissure
-DTSTART:20261122T120000Z
-DTEND:20261206T115900Z
-UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
-DESCRIPTION:During the event\, successfully challenge Simulated Universe o
- r Divergent Universe to earn double Planar Ornaments rewards.\n\n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Realm of the Strange
 DTSTART:20261210T120000Z
 DTEND:20261222T115900Z
 UID:724f598f5479538728f15fe24ae04f45@hoyo-calendar
 DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion
   to earn double rewards.\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aha Reckons You Need This
+DTSTART:20261110T150000Z
+DTEND:20261222T135900Z
+UID:e213dbeca598b7e93645ffbd7894a481@hoyo-calendar
+DESCRIPTION:\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magic Invitation
@@ -68,6 +60,14 @@ DTSTART:20261110T150000Z
 DTEND:20261222T135900Z
 UID:0ddcf260b76c2a9cad98406a5e9ec1f0@hoyo-calendar
 DESCRIPTION:\n\n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Planar Fissure
+DTSTART:20261122T120000Z
+DTEND:20261206T115900Z
+UID:c6cfb3ce2f80474261bb54a793a62def@hoyo-calendar
+DESCRIPTION:During the event\, successfully challenge Simulated Universe o
+ r Divergent Universe to earn double Planar Ornaments rewards.\n\n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stellar Companions

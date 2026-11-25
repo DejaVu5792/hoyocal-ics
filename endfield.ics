@@ -5,58 +5,94 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Arknights: Endfield Events
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:Sanctuary of Ink
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261125T000000
-UID:0e0ab9392f8b989844b2a158435fc6ea@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Sanct
- uary_of_Ink
-URL:https://endfield.wiki.gg/wiki/Sanctuary_of_Ink
+SUMMARY:Meeting You in the World o'Shrooms
+DTSTART;TZID=Asia/Shanghai:20261125T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:940233721d4122315037d16a375e55e5@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Meeti
+ ng_You_in_the_World_o%27Shrooms
+URL:https://endfield.wiki.gg/wiki/Meeting_You_in_the_World_o%27Shrooms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yuanyuan's Blazing Stoves
-DTSTART;TZID=Asia/Shanghai:20261015T000000
-DTEND;TZID=Asia/Shanghai:20261125T000000
-UID:9f2e1fcfed113f1852e624360970b50e@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Yuany
- uan%27s_Blazing_Stoves
-URL:https://endfield.wiki.gg/wiki/Yuanyuan%27s_Blazing_Stoves
+SUMMARY:I Dream of Honey Waffles
+DTSTART;TZID=Asia/Shanghai:20261125T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:c44ef4503e9780311ea54c8fd95b92be@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/I_Dre
+ am_of_Honey_Waffles
+URL:https://endfield.wiki.gg/wiki/I_Dream_of_Honey_Waffles
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Stars Are With Me
-DTSTART;TZID=Asia/Shanghai:20261105T000000
-DTEND;TZID=Asia/Shanghai:20261126T000000
-UID:969279a8dfb7921b2db5b7ea31969932@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/The_S
- tars_Are_With_Me
-URL:https://endfield.wiki.gg/wiki/The_Stars_Are_With_Me
+SUMMARY:Caps! Shrooms! FUNGI!
+DTSTART;TZID=Asia/Shanghai:20261125T000000
+DTEND;TZID=Asia/Shanghai:20261224T000000
+UID:963848a3d4595a54fbaf167b64d32538@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Caps!
+ _Shrooms!_FUNGI!
+URL:https://endfield.wiki.gg/wiki/Caps!_Shrooms!_FUNGI!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back to the Rustics
-DTSTART;TZID=Asia/Shanghai:20261105T000000
-DTEND;TZID=Asia/Shanghai:20261126T000000
-UID:0ed0a093f005f25ac83b9ebc3325f41d@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Back_
- to_the_Rustics
-URL:https://endfield.wiki.gg/wiki/Back_to_the_Rustics
+SUMMARY:Array Building: Mend the Old Gash
+DTSTART;TZID=Asia/Shanghai:20261125T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:bd010ab1a895759e9f2487b96e365eb5@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Array
+ _Building:_Mend_the_Old_Gash
+URL:https://endfield.wiki.gg/wiki/Array_Building:_Mend_the_Old_Gash
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Season of Fervor
-DTSTART;TZID=Asia/Shanghai:20261105T000000
-DTEND;TZID=Asia/Shanghai:20261127T000000
-UID:f0394bf1080c3a6c5c4b066a44a8ea38@endfield-cal
+SUMMARY:Season of Scattering
+DTSTART;TZID=Asia/Shanghai:20261125T000000
+DTEND;TZID=Asia/Shanghai:20261215T000000
+UID:ef8bc0456dc8ca3731e8f445df69b49c@endfield-cal
 DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
- n_of_Fervor
-URL:https://endfield.wiki.gg/wiki/Season_of_Fervor
+ n_of_Scattering
+URL:https://endfield.wiki.gg/wiki/Season_of_Scattering
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Contingency Contract: Indigo Experimental Operation
-DTSTART;TZID=Asia/Shanghai:20261105T000000
-DTEND;TZID=Asia/Shanghai:20261126T000000
-UID:8f2458ce5841cf4c53f9c0fa0788b970@endfield-cal
-DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Conti
- ngency_Contract:_Indigo_Experimental_Operation
-URL:https://endfield.wiki.gg/wiki/Contingency_Contract:_Indigo_Experimenta
- l_Operation
+SUMMARY:Workers' Guard: Roll Call
+DTSTART;TZID=Asia/Shanghai:20261216T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:e520d9ccf4768c637a4c582356f0836c@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Worke
+ rs%27_Guard:_Roll_Call?action=edit&redlink=1
+URL:https://endfield.wiki.gg/wiki/Workers%27_Guard:_Roll_Call?action=edit&
+ redlink=1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RISE! MEGA ARENA!
+DTSTART;TZID=Asia/Shanghai:20261216T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:21ae69dba5a30775b19cb1678fc36dcd@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/RISE!
+ _MEGA_ARENA!
+URL:https://endfield.wiki.gg/wiki/RISE!_MEGA_ARENA!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lucky Carrot's Games of Wonder
+DTSTART;TZID=Asia/Shanghai:20261216T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:858301b714f0e88f6d8d75eef7c72b44@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Lucky
+ _Carrot%27s_Games_of_Wonder
+URL:https://endfield.wiki.gg/wiki/Lucky_Carrot%27s_Games_of_Wonder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Season of Wariness
+DTSTART;TZID=Asia/Shanghai:20261216T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:44bc0ef76d767ae88ca2b46f1e9da718@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Seaso
+ n_of_Wariness
+URL:https://endfield.wiki.gg/wiki/Season_of_Wariness
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Endmin! Let's Sort the Prezzies!
+DTSTART;TZID=Asia/Shanghai:20261223T000000
+DTEND;TZID=Asia/Shanghai:20270107T000000
+UID:6ea2556439f2b5a94eea9ad1a26f0a19@endfield-cal
+DESCRIPTION:Source: wiki.gg\n\nSource: https://endfield.wiki.gg/wiki/Endmi
+ n!_Let%27s_Sort_the_Prezzies!
+URL:https://endfield.wiki.gg/wiki/Endmin!_Let%27s_Sort_the_Prezzies!
 END:VEVENT
 END:VCALENDAR

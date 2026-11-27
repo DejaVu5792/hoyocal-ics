@@ -6,6 +6,16 @@ METHOD:PUBLISH
 X-WR-CALDESC:Events\, banners\, and updates for Genshin Impact
 X-WR-CALNAME:Genshin Impact Events
 BEGIN:VEVENT
+SUMMARY:Frames of Fierce Splendor
+DTSTART:20261127T020000Z
+DTEND:20261206T195900Z
+UID:bc76bb4eadc5899775cfc2db0b9c5f4b@hoyo-calendar
+DESCRIPTION:Esfir\, who is always eager to hone her filmmaking skills\, ha
+ s invited you and Paimon to work with her. She hopes that\, with your help
+ \, she can create something that will lift the spirits of people across Sn
+ ezhnaya...\n\n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stress Block Smashing Project
 DTSTART:20261120T020000Z
 DTEND:20261129T195900Z
